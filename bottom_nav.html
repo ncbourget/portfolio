@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Archived Bottom Navigation</title>
+  <style>
+    .footer-nav {
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      display: flex;
+      justify-content: flex-end;
+      gap: 22px;
+      height: var(--rail-width);
+      padding: 0 13px 0 calc(var(--rail-width) + 13px);
+      border-top: 1px solid var(--rule);
+      z-index: 10;
+      background: var(--paper);
+      font: var(--type-size)/1 "Atlas Grotesk", Arial, sans-serif;
+    }
+
+    .footer-nav button,
+    .footer-nav a {
+      display: inline-flex;
+      align-items: center;
+      padding: 0;
+      border: 0;
+      color: inherit;
+      background: transparent;
+      font: inherit;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    .footer-nav button:focus-visible,
+    .footer-nav a:focus-visible {
+      outline: 1px solid currentColor;
+      outline-offset: 2px;
+    }
+
+    @media (max-width: 600px) {
+      .footer-nav {
+        gap: 18px;
+        padding: 0 12px 0 calc(var(--rail-width) + 12px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <footer class="footer-nav" aria-label="Page navigation">
+    <button type="button" onclick="history.back()">←BACK</button>
+    <a href="#top">↑TOP</a>
+  </footer>
+</body>
+</html>
