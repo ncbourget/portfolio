@@ -69,6 +69,12 @@ a {
   gap: 22px;
 }
 
+.rail-home {
+  position: absolute;
+  bottom: 12px;
+  left: 0;
+}
+
 .rail a {
   display: flex;
   align-items: center;
@@ -81,12 +87,12 @@ a {
   white-space: nowrap;
 }
 
-.rail .nameplate,
-.rail .active-link {
+.rail .projects-link,
+.rail a:hover,
+.rail a:focus-visible {
   background: var(--yellow);
 }
 
-.rail a:focus-visible,
 .slide-zone:focus-visible {
   outline: 1px solid currentColor;
   outline-offset: 2px;
@@ -297,6 +303,10 @@ a {
   list-style: none;
 }
 
+.contact {
+  scroll-margin-top: 20px;
+}
+
 .colophon {
   grid-column: 5 / span 2;
 }
@@ -412,6 +422,7 @@ a {
   width: 100%;
   min-width: 0;
   gap: 0;
+  scroll-margin-top: 0;
 }
 
 .chapter-heading {
