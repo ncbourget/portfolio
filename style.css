@@ -29,6 +29,8 @@ body {
 
 html {
   scroll-behavior: smooth;
+  color-scheme: light;
+  background: var(--paper);
 }
 
 body {
@@ -50,7 +52,9 @@ a {
 
 .rail {
   position: fixed;
-  inset: 0 auto 0 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
   width: var(--rail-width);
   border-right: 1px solid var(--rule);
   z-index: 10;
@@ -60,7 +64,7 @@ a {
 
 .rail-links {
   position: absolute;
-  top: 13px;
+  top: calc(13px + env(safe-area-inset-top, 0px));
   left: 0;
   display: flex;
   width: 100%;
@@ -71,7 +75,7 @@ a {
 
 .rail-home {
   position: absolute;
-  bottom: 12px;
+  bottom: calc(12px + env(safe-area-inset-bottom, 0px));
   left: 0;
 }
 
@@ -234,6 +238,7 @@ a {
 
 .about {
   min-height: 100vh;
+  scroll-margin-top: 0;
   padding: 20px var(--page-gap) 44px;
   background: var(--yellow);
 }
@@ -387,9 +392,28 @@ a {
   text-indent: 30px;
 }
 
+.project-links {
+  display: grid;
+  justify-items: start;
+  gap: 6px;
+  margin-top: 18px;
+}
+
+.project-text-link {
+  color: royalblue;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.project-text-link:hover,
+.project-text-link:focus-visible {
+  color: royalblue;
+  background: transparent;
+}
+
 .project-facts {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
   gap: 12px;
   margin: auto 0 0;
 }
@@ -423,6 +447,10 @@ a {
   min-width: 0;
   gap: 0;
   scroll-margin-top: 0;
+}
+
+.project-chapter + .project-chapter {
+  margin-top: -1px;
 }
 
 .chapter-heading {
@@ -494,6 +522,41 @@ a {
   height: 100%;
   aspect-ratio: 2 / 3;
   object-fit: cover;
+}
+
+.paper-bleed {
+  display: grid;
+  align-items: center;
+  background: #fff;
+  padding: clamp(12px, 2vw, 28px);
+}
+
+.paper-bleed img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.paper-bleed-pair {
+  gap: 1px;
+  background: var(--rule);
+}
+
+.paper-bleed-pair figure {
+  display: grid;
+  align-items: center;
+  background: #fff;
+  padding: clamp(12px, 2vw, 28px);
+}
+
+.paper-bleed-pair img {
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+
+.outreach-pair figure {
+  min-height: clamp(360px, 38vw, 620px);
 }
 
 .event-pair {
@@ -628,7 +691,7 @@ a {
     min-height: 0;
     padding: 12px 10px 20px;
     border-right: 0;
-    border-bottom: 1px solid var(--rule);
+    border-bottom: 0;
   }
 
   .project-description {
