@@ -91,7 +91,6 @@ a {
   white-space: nowrap;
 }
 
-.rail .projects-link,
 .rail a:hover,
 .rail a:focus-visible {
   background: var(--yellow);
@@ -433,6 +432,10 @@ a {
   text-underline-offset: 2px;
 }
 
+.project-facts .plain-credit-label {
+  text-decoration: none;
+}
+
 .project-images {
   grid-column: span 4;
   display: grid;
@@ -537,6 +540,37 @@ a {
   object-fit: contain;
 }
 
+.model-embed {
+  display: grid;
+  gap: 8px;
+  padding: clamp(10px, 1.6vw, 22px);
+  background: #fff;
+}
+
+.model-embed iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  border: 0;
+  background: var(--gray);
+}
+
+.project-video {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: var(--gray);
+}
+
+.video-embed {
+  justify-items: center;
+}
+
+.video-embed iframe {
+  width: min(100%, 520px);
+  aspect-ratio: 9 / 16;
+}
+
 .paper-bleed-pair {
   gap: 1px;
   background: var(--rule);
@@ -547,16 +581,6 @@ a {
   align-items: center;
   background: #fff;
   padding: clamp(12px, 2vw, 28px);
-}
-
-.paper-bleed-pair img {
-  height: auto;
-  aspect-ratio: auto;
-  object-fit: contain;
-}
-
-.outreach-pair figure {
-  min-height: clamp(360px, 38vw, 620px);
 }
 
 .event-pair {
@@ -576,6 +600,18 @@ a {
   height: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+}
+
+.image-pair.paper-bleed-pair img,
+.event-pair.paper-bleed-pair img {
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+
+.outreach-pair figure {
+  min-height: clamp(340px, 36vw, 600px);
+  padding: clamp(10px, 1.6vw, 24px);
 }
 
 .project-images .graphic-placeholder {
@@ -643,8 +679,33 @@ a {
   }
 
   .rail-links {
-    top: 12px;
+    top: calc(12px + env(safe-area-inset-top, 0px));
     gap: 18px;
+  }
+
+  .rail-home {
+    bottom: calc(12px + env(safe-area-inset-bottom, 0px));
+  }
+
+  body::before,
+  body::after {
+    content: "";
+    position: fixed;
+    left: var(--rail-width);
+    right: 0;
+    z-index: 20;
+    pointer-events: none;
+    background: var(--paper);
+  }
+
+  body::before {
+    top: 0;
+    height: max(env(safe-area-inset-top, 0px), 1px);
+  }
+
+  body::after {
+    bottom: 0;
+    height: max(env(safe-area-inset-bottom, 0px), 1px);
   }
 
   .six-grid {
