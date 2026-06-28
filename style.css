@@ -547,6 +547,10 @@ a {
   background: #fff;
 }
 
+.model-embed-fullbleed {
+  padding: 0;
+}
+
 .model-embed iframe {
   display: block;
   width: 100%;
@@ -685,27 +689,6 @@ a {
 
   .rail-home {
     bottom: calc(12px + env(safe-area-inset-bottom, 0px));
-  }
-
-  body::before,
-  body::after {
-    content: "";
-    position: fixed;
-    left: var(--rail-width);
-    right: 0;
-    z-index: 20;
-    pointer-events: none;
-    background: var(--paper);
-  }
-
-  body::before {
-    top: 0;
-    height: max(env(safe-area-inset-top, 0px), 1px);
-  }
-
-  body::after {
-    bottom: 0;
-    height: max(env(safe-area-inset-bottom, 0px), 1px);
   }
 
   .six-grid {
