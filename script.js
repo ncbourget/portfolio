@@ -11,14 +11,14 @@ if (slideshow) {
   const previous = slideshow.querySelector(".slide-previous");
   const next = slideshow.querySelector(".slide-next");
   const slides = [
-    ["images/n_press/iaritza_open_studio/©IaritzaMenjivar-8844.JPG", "ñ press publication and printed matter"],
-    ["images/n_press/iaritza_open_studio/©IaritzaMenjivar-8405.JPG", "ñ press screenprinting demonstration"],
-    ["images/n_press/iaritza_open_studio/©IaritzaMenjivar-8476.JPG", "Ink being pulled across a screen"],
-    ["images/n_press/iaritza_open_studio/©IaritzaMenjivar-8597.JPG", "Children watching a printing demonstration"],
-    ["images/n_press/iaritza_open_studio/©IaritzaMenjivar-8357.JPG", "Hands preparing a screen for printing"],
-    ["images/n_press/iaritza_open_studio/©IaritzaMenjivar-8741.JPG", "ñ press workshop environment"],
-    ["images/n_press/iaritza_open_studio/©IaritzaMenjivar-8563.JPG", "ñ press printing process"],
-    ["images/n_press/iaritza_open_studio/©IaritzaMenjivar-8842.JPG", "ñ press printed matter"],
+    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8844.JPG", "ñ press publication and printed matter"],
+    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8405.JPG", "ñ press screenprinting demonstration"],
+    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8476.JPG", "Ink being pulled across a screen"],
+    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8597.JPG", "Children watching a printing demonstration"],
+    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8357.JPG", "Hands preparing a screen for printing"],
+    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8741.JPG", "ñ press workshop environment"],
+    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8563.JPG", "ñ press printing process"],
+    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8842.JPG", "ñ press printed matter"],
   ];
   let current = 0;
   let autoplay;

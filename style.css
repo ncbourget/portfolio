@@ -216,6 +216,14 @@ a {
   object-fit: cover;
 }
 
+.project-image.graphic-placeholder {
+  display: flex;
+  align-items: flex-start;
+  min-height: 0;
+  padding: 2px 4px;
+  color: var(--ink);
+}
+
 .project h2,
 .project p {
   margin: 0;
@@ -400,6 +408,14 @@ a {
 
 .project-text-link {
   color: royalblue;
+  text-decoration: none;
+}
+
+.project-links .project-text-link::before {
+  content: "• ";
+}
+
+.project-text-link .link-label {
   text-decoration: underline;
   text-underline-offset: 2px;
 }
