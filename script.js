@@ -79,3 +79,65 @@ if (slideshow) {
 
   startAutoplay();
 }
+
+const zoomableImages = Array.from(document.querySelectorAll(".project-images img"));
+
+if (zoomableImages.length) {
+  const lightbox = document.createElement("div");
+  lightbox.className = "image-lightbox";
+  lightbox.setAttribute("aria-hidden", "true");
+  lightbox.innerHTML = `
+    <button class="image-lightbox-close" type="button" aria-label="Close image">×</button>
+    <figure class="image-lightbox-frame">
+      <img alt="">
+    </figure>
+  `;
+
+  document.body.append(lightbox);
+
+  const lightboxImage = lightbox.querySelector("img");
+  const closeButton = lightbox.querySelector(".image-lightbox-close");
+
+  const openLightbox = (image) => {
+    lightboxImage.src = image.currentSrc || image.src;
+    lightboxImage.alt = image.alt || "";
+    lightbox.classList.add("is-open");
+    lightbox.setAttribute("aria-hidden", "false");
+    document.documentElement.classList.add("lightbox-open");
+    closeButton.focus({ preventScroll: true });
+  };
+
+  const closeLightbox = () => {
+    lightbox.classList.remove("is-open");
+    lightbox.setAttribute("aria-hidden", "true");
+    document.documentElement.classList.remove("lightbox-open");
+    lightboxImage.removeAttribute("src");
+  };
+
+  zoomableImages.forEach((image) => {
+    image.classList.add("zoomable-image");
+    image.setAttribute("tabindex", "0");
+    image.setAttribute("role", "button");
+    image.setAttribute("aria-label", image.alt ? `Open larger image: ${image.alt}` : "Open larger image");
+
+    image.addEventListener("click", () => openLightbox(image));
+    image.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        openLightbox(image);
+      }
+    });
+  });
+
+  lightbox.addEventListener("click", (event) => {
+    if (event.target === lightbox || event.target === closeButton) {
+      closeLightbox();
+    }
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && lightbox.classList.contains("is-open")) {
+      closeLightbox();
+    }
+  });
+}
