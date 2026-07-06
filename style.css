@@ -304,10 +304,16 @@ a {
   margin: 0;
 }
 
-.about-image div {
+.about-image div,
+.about-image img {
   width: 100%;
   aspect-ratio: 1;
   background: var(--gray);
+}
+
+.about-image img {
+  display: block;
+  object-fit: cover;
 }
 
 .contact ul {
