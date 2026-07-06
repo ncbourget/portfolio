@@ -525,6 +525,10 @@ a {
   border-top: 1px solid var(--rule);
 }
 
+.project-chapter:has(> .image-wide:last-child .project-video) + .project-chapter .chapter-heading {
+  border-top: 0;
+}
+
 .project-images img {
   display: block;
   width: 100%;
