@@ -10,15 +10,69 @@ if (slideshow) {
   const count = slideshow.querySelector(".slide-count");
   const previous = slideshow.querySelector(".slide-previous");
   const next = slideshow.querySelector(".slide-next");
+  const projectLink = slideshow.querySelector(".cover-project-link");
+  const captionLink = slideshow.querySelector(".slide-caption a");
   const slides = [
-    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8844.JPG", "ñ press publication and printed matter"],
-    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8405.JPG", "ñ press screenprinting demonstration"],
-    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8476.JPG", "Ink being pulled across a screen"],
-    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8597.JPG", "Children watching a printing demonstration"],
-    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8357.JPG", "Hands preparing a screen for printing"],
-    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8741.JPG", "ñ press workshop environment"],
-    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8563.JPG", "ñ press printing process"],
-    ["n_press/images/iaritza_open_studio/©IaritzaMenjivar-8842.JPG", "ñ press printed matter"],
+    {
+      source: "n_press/images/iaritza_open_studio/©IaritzaMenjivar-8405.JPG",
+      alt: "ñ press screenprinting demonstration",
+      href: "n_press/",
+      label: "ñ press",
+    },
+    {
+      source: "gpc/images/gpc_show2/1_D.JPEG",
+      alt: "Garment Printing Club Show 2 broadside graphic",
+      href: "gpc/#unavoidable",
+      label: "Garment Printing Club",
+    },
+    {
+      source: "white_heat/images/front_S.jpg",
+      alt: "White Heat publication cover",
+      href: "white_heat/",
+      label: "White Heat",
+    },
+    {
+      source: "n_press/images/iaritza_open_studio/©IaritzaMenjivar-8476.JPG",
+      alt: "Ink being pulled across a screen",
+      href: "n_press/",
+      label: "ñ press",
+    },
+    {
+      source: "crushed/images/1_s.png",
+      alt: "CRUSHED! Bike grips product package",
+      href: "crushed/",
+      label: "CRUSHED! Bike grips",
+    },
+    {
+      source: "3d_work/images/models/Peasoup2.png",
+      alt: "Pea Soup 3D model render",
+      href: "3d_work/#models",
+      label: "3D Work",
+    },
+    {
+      source: "n_press/images/iaritza_open_studio/©IaritzaMenjivar-8597.JPG",
+      alt: "Children watching a printing demonstration",
+      href: "n_press/",
+      label: "ñ press",
+    },
+    {
+      source: "gpc/images/gpc_show2/IMG_9677.jpg",
+      alt: "Garment Printing Club Show 2 exhibition view",
+      href: "gpc/#unavoidable",
+      label: "Garment Printing Club",
+    },
+    {
+      source: "data_chapel/cover.jpg",
+      alt: "Data Chapel cover image",
+      href: "data_chapel/",
+      label: "Data Chapel",
+    },
+    {
+      source: "n_press/images/multiple_formats2026/IMG_8684.jpg",
+      alt: "Multiple Formats workshop documentation",
+      href: "n_press/#multiple-formats",
+      label: "ñ press",
+    },
   ];
   let current = 0;
   let autoplay;
@@ -27,8 +81,16 @@ if (slideshow) {
 
   const show = (nextIndex) => {
     current = (nextIndex + slides.length) % slides.length;
-    image.src = slides[current][0];
-    image.alt = slides[current][1];
+    image.src = slides[current].source;
+    image.alt = slides[current].alt;
+    if (projectLink) {
+      projectLink.href = slides[current].href;
+      projectLink.setAttribute("aria-label", `View ${slides[current].label} project`);
+    }
+    if (captionLink) {
+      captionLink.href = slides[current].href;
+      captionLink.textContent = slides[current].label;
+    }
     count.textContent = `${current + 1} / ${slides.length}`;
   };
 
@@ -42,7 +104,7 @@ if (slideshow) {
     startAutoplay();
   };
 
-  slides.forEach(([source]) => {
+  slides.forEach(({ source }) => {
     const preload = new Image();
     preload.src = source;
   });
