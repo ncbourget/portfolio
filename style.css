@@ -396,6 +396,12 @@ a {
   text-indent: 30px;
 }
 
+.project-description a {
+  color: royalblue;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .project-links {
   display: grid;
   justify-items: start;
@@ -410,6 +416,15 @@ a {
 
 .project-links .project-text-link::before {
   content: "• ";
+}
+
+.project-text-link-separated {
+  margin-bottom: 22px;
+}
+
+.project-link-label {
+  margin: 0;
+  color: var(--ink);
 }
 
 .project-text-link .link-label {
@@ -596,9 +611,9 @@ a {
 
 .image-pair img {
   width: 100%;
-  height: 100%;
-  aspect-ratio: 2 / 3;
-  object-fit: cover;
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
 }
 
 .paper-bleed {
@@ -638,6 +653,27 @@ a {
   width: 100%;
   height: auto;
   background: var(--gray);
+}
+
+.video-triptych {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  background: var(--rule);
+}
+
+.video-triptych::before,
+.video-triptych::after {
+  content: "";
+  display: block;
+  background: var(--paper);
+}
+
+.video-triptych video {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 9 / 16;
+  object-fit: cover;
 }
 
 .video-pair {
@@ -699,8 +735,41 @@ a {
   object-fit: cover;
 }
 
+.fill-pair img {
+  height: 100%;
+  aspect-ratio: auto;
+  object-fit: cover;
+}
+
+.crop-pair img {
+  height: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+}
+
+.image-pair .no-crop img,
+.event-pair .no-crop img {
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+
 .image-pair.paper-bleed-pair img,
 .event-pair.paper-bleed-pair img {
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+
+.confession-grid .image-pair figure,
+.confession-grid .image-wide {
+  display: grid;
+  align-items: center;
+  background: #fff;
+}
+
+.confession-grid .image-pair img,
+.confession-grid .image-wide img {
   height: auto;
   aspect-ratio: auto;
   object-fit: contain;

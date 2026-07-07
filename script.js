@@ -62,10 +62,10 @@ if (slideshow) {
       label: "Garment Printing Club",
     },
     {
-      source: "data_chapel/cover.jpg",
-      alt: "Data Chapel cover image",
-      href: "data_chapel/",
-      label: "Data Chapel",
+      source: "community_involvement/images/statehouse_visit/2_d.jpg",
+      alt: "MassArt Statehouse Visit shirt documentation",
+      href: "community_involvement/#mass-statehouse-visit-shirts",
+      label: "Community Involvement",
     },
     {
       source: "n_press/images/multiple_formats2026/IMG_8684.jpg",
