@@ -14,61 +14,61 @@ if (slideshow) {
   const captionLink = slideshow.querySelector(".slide-caption a");
   const slides = [
     {
-      source: "n_press/images/iaritza_open_studio/©IaritzaMenjivar-8405.JPG",
-      alt: "ñ press screenprinting demonstration",
-      href: "n_press/",
-      label: "ñ press",
-    },
-    {
-      source: "gpc/images/gpc_show2/1_D.JPEG",
+      source: "assets/slideshow/slide-01.jpg",
       alt: "Garment Printing Club Show 2 broadside graphic",
       href: "gpc/#unavoidable",
       label: "Garment Printing Club",
     },
     {
-      source: "white_heat/images/front_S.jpg",
+      source: "assets/slideshow/slide-02.jpg",
+      alt: "ñ press screenprinting demonstration",
+      href: "n_press/",
+      label: "ñ press",
+    },
+    {
+      source: "assets/slideshow/slide-03.jpg",
       alt: "White Heat publication cover",
       href: "white_heat/",
       label: "White Heat",
     },
     {
-      source: "n_press/images/iaritza_open_studio/©IaritzaMenjivar-8476.JPG",
+      source: "assets/slideshow/slide-04.jpg",
       alt: "Ink being pulled across a screen",
       href: "n_press/",
       label: "ñ press",
     },
     {
-      source: "crushed/images/1_s.png",
+      source: "assets/slideshow/slide-05.jpg",
       alt: "CRUSHED! Bike grips product package",
       href: "crushed/",
       label: "CRUSHED! Bike grips",
     },
     {
-      source: "3d_work/images/models/Peasoup2.png",
+      source: "assets/slideshow/slide-06.jpg",
       alt: "Pea Soup 3D model render",
       href: "3d_work/#models",
       label: "3D Work",
     },
     {
-      source: "n_press/images/iaritza_open_studio/©IaritzaMenjivar-8597.JPG",
+      source: "assets/slideshow/slide-07.jpg",
       alt: "Children watching a printing demonstration",
       href: "n_press/",
       label: "ñ press",
     },
     {
-      source: "gpc/images/gpc_show2/IMG_9677.jpg",
+      source: "assets/slideshow/slide-08.jpg",
       alt: "Garment Printing Club Show 2 exhibition view",
       href: "gpc/#unavoidable",
       label: "Garment Printing Club",
     },
     {
-      source: "community_involvement/images/statehouse_visit/2_d.jpg",
+      source: "assets/slideshow/slide-09.jpg",
       alt: "MassArt Statehouse Visit shirt documentation",
       href: "community_involvement/#mass-statehouse-visit-shirts",
       label: "Community Involvement",
     },
     {
-      source: "n_press/images/multiple_formats2026/IMG_8684.jpg",
+      source: "assets/slideshow/slide-10.jpg",
       alt: "Multiple Formats workshop documentation",
       href: "n_press/#multiple-formats",
       label: "ñ press",
@@ -96,7 +96,7 @@ if (slideshow) {
 
   const startAutoplay = () => {
     window.clearInterval(autoplay);
-    autoplay = window.setInterval(() => show(current + 1), 4500);
+    autoplay = window.setInterval(() => show(current + 1), 4200);
   };
 
   const changeSlide = (direction) => {
