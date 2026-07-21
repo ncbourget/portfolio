@@ -816,6 +816,15 @@ a {
   object-fit: contain;
 }
 
+.image-pair .match-poster-crop img,
+.event-pair .match-poster-crop img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: auto;
+  object-fit: cover;
+}
+
 .image-pair.paper-bleed-pair img,
 .event-pair.paper-bleed-pair img {
   height: auto;
