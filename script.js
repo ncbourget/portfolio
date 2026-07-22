@@ -1,6 +1,10 @@
 if (window.location.pathname.endsWith("/index.html")) {
-  const cleanPath = window.location.pathname.replace(/index\.html$/, "");
-  window.history.replaceState(null, "", `${cleanPath}${window.location.search}${window.location.hash}`);
+  try {
+    const cleanPath = window.location.pathname.replace(/index\.html$/, "");
+    window.history.replaceState(null, "", `${cleanPath}${window.location.search}${window.location.hash}`);
+  } catch (error) {
+    // Keep the rest of the site scripts running when viewed from file://.
+  }
 }
 
 const slideshow = document.querySelector("[data-slideshow]");
@@ -91,7 +95,9 @@ if (slideshow) {
       captionLink.href = slides[current].href;
       captionLink.textContent = slides[current].label;
     }
-    count.textContent = `${current + 1} / ${slides.length}`;
+    if (count) {
+      count.textContent = `${current + 1} / ${slides.length}`;
+    }
   };
 
   const startAutoplay = () => {
@@ -109,8 +115,8 @@ if (slideshow) {
     preload.src = source;
   });
 
-  previous.addEventListener("click", () => changeSlide(-1));
-  next.addEventListener("click", () => changeSlide(1));
+  previous?.addEventListener("click", () => changeSlide(-1));
+  next?.addEventListener("click", () => changeSlide(1));
 
   slideshow.addEventListener("touchstart", (event) => {
     touchStartX = event.changedTouches[0].clientX;
@@ -200,6 +206,46 @@ if (zoomableImages.length) {
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape" && lightbox.classList.contains("is-open")) {
       closeLightbox();
+    }
+  });
+}
+
+const awardOverlayTrigger = document.querySelector("[data-award-overlay]");
+const awardOverlay = document.querySelector("#award-words");
+
+if (awardOverlayTrigger && awardOverlay) {
+  if (window.location.hash === "#award-words") {
+    try {
+      window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
+    } catch (error) {
+      window.location.hash = "";
+    }
+  }
+
+  const openAwardOverlay = () => {
+    awardOverlay.classList.add("is-open");
+    awardOverlay.setAttribute("aria-hidden", "false");
+    document.documentElement.classList.add("lightbox-open");
+  };
+
+  const closeAwardOverlay = () => {
+    awardOverlay.classList.remove("is-open");
+    awardOverlay.setAttribute("aria-hidden", "true");
+    document.documentElement.classList.remove("lightbox-open");
+  };
+
+  awardOverlayTrigger.addEventListener("click", (event) => {
+    event.preventDefault();
+    openAwardOverlay();
+  });
+
+  awardOverlay.addEventListener("click", (event) => {
+    closeAwardOverlay();
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && awardOverlay.classList.contains("is-open")) {
+      closeAwardOverlay();
     }
   });
 }

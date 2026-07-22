@@ -325,10 +325,46 @@ a {
   padding: 0 2px;
 }
 
-.about a.about-inline-link {
+.about a.about-inline-link,
+.about button.about-inline-link {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
+  cursor: pointer;
+}
+
+.award-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 120;
+  display: none;
+  place-items: center;
+  padding: clamp(18px, 4vw, 54px);
+  background: transparent;
+  cursor: zoom-out;
+}
+
+.award-overlay.is-open {
+  display: grid;
+}
+
+.award-overlay img {
+  display: block;
+  max-width: min(86vw, 760px);
+  max-height: min(88svh, 900px);
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  user-select: none;
+  -webkit-user-drag: none;
+  cursor: default;
+  pointer-events: none;
 }
 
 .about-image {
