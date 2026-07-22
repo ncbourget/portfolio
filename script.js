@@ -225,13 +225,11 @@ if (awardOverlayTrigger && awardOverlay) {
   const openAwardOverlay = () => {
     awardOverlay.classList.add("is-open");
     awardOverlay.setAttribute("aria-hidden", "false");
-    document.documentElement.classList.add("lightbox-open");
   };
 
   const closeAwardOverlay = () => {
     awardOverlay.classList.remove("is-open");
     awardOverlay.setAttribute("aria-hidden", "true");
-    document.documentElement.classList.remove("lightbox-open");
   };
 
   awardOverlayTrigger.addEventListener("click", (event) => {
