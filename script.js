@@ -82,22 +82,49 @@ if (slideshow) {
   let autoplay;
   let touchStartX = 0;
   let touchStartY = 0;
+  let requestedSlide = 0;
+  const preloadedSlides = new Map();
+
+  slides.forEach(({ source }) => {
+    const preload = new Image();
+    preload.src = source;
+    preloadedSlides.set(source, preload);
+  });
 
   const show = (nextIndex) => {
-    current = (nextIndex + slides.length) % slides.length;
-    image.src = slides[current].source;
-    image.alt = slides[current].alt;
-    if (projectLink) {
-      projectLink.href = slides[current].href;
-      projectLink.setAttribute("aria-label", `View ${slides[current].label} project`);
+    const target = (nextIndex + slides.length) % slides.length;
+    const slide = slides[target];
+    const request = ++requestedSlide;
+    const swapSlide = () => {
+      if (request !== requestedSlide) return;
+      current = target;
+      image.src = slide.source;
+      image.alt = slide.alt;
+      if (projectLink) {
+        projectLink.href = slide.href;
+        projectLink.setAttribute("aria-label", `View ${slide.label} project`);
+      }
+      if (captionLink) {
+        captionLink.href = slide.href;
+        captionLink.textContent = slide.label;
+      }
+      if (count) {
+        count.textContent = `${current + 1} / ${slides.length}`;
+      }
+    };
+    const preload = preloadedSlides.get(slide.source);
+    if (preload?.complete) {
+      swapSlide();
+      return;
     }
-    if (captionLink) {
-      captionLink.href = slides[current].href;
-      captionLink.textContent = slides[current].label;
+    if (preload) {
+      preload.addEventListener("load", swapSlide, { once: true });
+      preload.addEventListener("error", swapSlide, { once: true });
+      return;
     }
-    if (count) {
-      count.textContent = `${current + 1} / ${slides.length}`;
-    }
+    image.src = slide.source;
+    image.addEventListener("load", swapSlide, { once: true });
+    image.addEventListener("error", swapSlide, { once: true });
   };
 
   const startAutoplay = () => {
@@ -109,11 +136,6 @@ if (slideshow) {
     show(current + direction);
     startAutoplay();
   };
-
-  slides.forEach(({ source }) => {
-    const preload = new Image();
-    preload.src = source;
-  });
 
   previous?.addEventListener("click", () => changeSlide(-1));
   next?.addEventListener("click", () => changeSlide(1));
