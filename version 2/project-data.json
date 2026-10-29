@@ -1,0 +1,576 @@
+[
+  {
+    "slug": "gpc",
+    "title": "Garment Printing Club",
+    "date": "Fall 2022—Spring 2026",
+    "category": "Leadership",
+    "images": [
+      [
+        "assets/homepage_thumbnails/gpc.jpg",
+        "Garment Printing Club",
+        ""
+      ],
+      [
+        "gpc/images/weekly_workshops/IMG_4882.jpeg",
+        "Garment Printing Club workshop in progress",
+        "weekly-workshops"
+      ],
+      [
+        "gpc/images/gpc_show1/top_s.jpg",
+        "Show 1 exhibition documentation",
+        "the-message"
+      ],
+      [
+        "gpc/images/gpc_show2/1_D.JPEG",
+        "Show 2 UNAVOIDABLE graphic",
+        "unavoidable"
+      ],
+      [
+        "gpc/images/gpc_show3/group_1s.jpg",
+        "Group documentation from the third Garment Printing Club show",
+        "untitled-gpc-show"
+      ]
+    ]
+  },
+  {
+    "slug": "the_limit",
+    "title": "The Limit",
+    "date": "Spring 2026",
+    "category": "Print",
+    "images": [
+      [
+        "assets/homepage_thumbnails/the_limit.jpg",
+        "The Limit",
+        ""
+      ],
+      [
+        "the_limit/images/manual/books_2.PNG",
+        "The Limit manual composition",
+        "manual"
+      ],
+      [
+        "the_limit/images/dreamchatroom/Screenshot 2026-07-06 at 2.22.25 PM.png",
+        "Dream Chatroom interface documentation",
+        "dream-chatroom"
+      ],
+      [
+        "the_limit/images/manual/books_3.PNG",
+        "The Limit manual interview composition",
+        ""
+      ],
+      [
+        "the_limit/images/manual/books_4.PNG",
+        "The Limit manual spread composition",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "n_press",
+    "title": "ñ press",
+    "date": "April 2025—present",
+    "category": "Leadership",
+    "images": [
+      [
+        "assets/homepage_thumbnails/n_press.jpg",
+        "ñ press",
+        ""
+      ],
+      [
+        "n_press/images/iaritza_open_studio/©IaritzaMenjivar-8844.JPG",
+        "ñ press print anthology and card",
+        "open-studio-days"
+      ],
+      [
+        "n_press/images/ICA_watershed_tabling/1_s.jpg",
+        "ñ press table and printed work displayed at the ICA Watershed",
+        "ica-watershed"
+      ],
+      [
+        "n_press/images/Silkscreen_night_workshop/1_s.jpg",
+        "Silkscreen Night workshop in progress",
+        "silkscreen-night"
+      ],
+      [
+        "n_press/images/Graphic_work/NYT2.png",
+        "ñ press New York Times graphic",
+        "graphic-work"
+      ]
+    ]
+  },
+  {
+    "slug": "boston_art_review",
+    "title": "Boston Art Review",
+    "date": "Summer 2025",
+    "category": "Print",
+    "images": [
+      [
+        "assets/homepage_thumbnails/boston_art_review.jpg",
+        "Boston Art Review",
+        ""
+      ],
+      [
+        "boston_art_review/images/radar_map/map1.png",
+        "RADAR issue #1 map graphic",
+        "radar-issue-1"
+      ],
+      [
+        "boston_art_review/images/Classifieds_Outreach/ListIt_1-1_080825.jpg",
+        "Square public outreach graphic for classifieds submissions",
+        "public-outreach"
+      ],
+      [
+        "boston_art_review/images/Classifieds/BAR.CLASSIFIEDS.FRONT.png",
+        "Front side of the ñ press collaboration classifieds artwork",
+        "n-press-collaboration-classifieds"
+      ],
+      [
+        "boston_art_review/images/radar_map/map2.png",
+        "RADAR issue #1 map detail",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "kuru",
+    "title": "KURU Fine Dining",
+    "date": "Spring 2026",
+    "category": "Identity",
+    "images": [
+      [
+        "assets/homepage_thumbnails/kuru.jpg",
+        "KURU Fine Dining",
+        ""
+      ],
+      [
+        "kuru/images/brand%20guidelines/6.png",
+        "KURU Fine Dining brand guideline spread",
+        "brand-guidelines"
+      ],
+      [
+        "kuru/images/Menus/2.png",
+        "KURU Fine Dining entree menu",
+        "menus"
+      ],
+      [
+        "kuru/images/brand%20guidelines/7.png",
+        "KURU Fine Dining brand guideline typography spread",
+        ""
+      ],
+      [
+        "kuru/images/brand%20guidelines/8.png",
+        "KURU Fine Dining brand guideline application spread",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "3d_work",
+    "title": "3D Work",
+    "date": "Summer 2024—present",
+    "category": "Digital",
+    "images": [
+      [
+        "assets/homepage_thumbnails/3d_work.jpg",
+        "3D Work",
+        ""
+      ],
+      [
+        "3d_work/images/models/10k.png",
+        "3D model study",
+        "models"
+      ],
+      [
+        "3d_work/images/Installation/1_s.jpg",
+        "3D Work installation documentation",
+        "installation"
+      ],
+      [
+        "3d_work/images/models/Peasoup2.png",
+        "Peasoup alternate 3D model",
+        ""
+      ],
+      [
+        "3d_work/images/models/Peasoup.png",
+        "Peasoup 3D model",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "rerun_film_festival",
+    "title": "ReRun Film Festival",
+    "date": "Spring 2026",
+    "category": "Identity",
+    "images": [
+      [
+        "assets/homepage_thumbnails/rerun_film_festival.jpg",
+        "ReRun Film Festival",
+        ""
+      ],
+      [
+        "rerun_film_festival/images/11.png",
+        "ReRun Film Festival title graphic",
+        "festival-ephemera"
+      ],
+      [
+        "rerun_film_festival/images/ReRun-Program33.jpg",
+        "ReRun Film Festival program spread",
+        "selected-spreads"
+      ],
+      [
+        "rerun_film_festival/images/12.png",
+        "ReRun Film Festival motion graphic",
+        ""
+      ],
+      [
+        "rerun_film_festival/images/13.png",
+        "ReRun Film Festival graphic frame",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "challngr",
+    "title": "Challngr",
+    "date": "Spring 2026",
+    "category": "Identity",
+    "images": [
+      [
+        "assets/homepage_thumbnails/challngr.jpg",
+        "Challngr",
+        ""
+      ],
+      [
+        "challngr/images/screen1.png",
+        "Challngr interface screen 1",
+        "screens"
+      ],
+      [
+        "challngr/images/screens2.png",
+        "Challngr interface screen 2",
+        ""
+      ],
+      [
+        "challngr/images/screens3.png",
+        "Challngr interface screen 3",
+        ""
+      ],
+      [
+        "challngr/images/screens4.png",
+        "Challngr interface screen 4",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "crushed",
+    "title": "CRUSHED! Bike grips",
+    "date": "Spring 2026",
+    "category": "Objects",
+    "images": [
+      [
+        "assets/homepage_thumbnails/crushed.jpg",
+        "CRUSHED! Bike grips",
+        ""
+      ],
+      [
+        "crushed/images/1_s.png",
+        "CRUSHED! Bike grips product shot",
+        "product-shots"
+      ],
+      [
+        "crushed/images/2_d.png",
+        "CRUSHED! Bike grips packaging detail",
+        ""
+      ],
+      [
+        "crushed/images/3_d.png",
+        "CRUSHED! Bike grips product detail",
+        ""
+      ],
+      [
+        "crushed/images/4_d.png",
+        "CRUSHED! Bike grips fabrication detail",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "community_involvement",
+    "title": "Community Involvement",
+    "date": "Fall 2022—present",
+    "category": "Leadership",
+    "images": [
+      [
+        "assets/homepage_thumbnails/community_involvement.jpg",
+        "Community Involvement",
+        ""
+      ],
+      [
+        "community_involvement/images/HardyMalawi/malawi_4s.jpg",
+        "The Hardy Bunch Foundation Malawi documentation",
+        "hardy-bunch-foundation"
+      ],
+      [
+        "community_involvement/images/statehouse_visit/1_s.jpg",
+        "Mass. Statehouse Visit shirts documentation",
+        "mass-statehouse-visit-shirts"
+      ],
+      [
+        "community_involvement/images/ntitan_cmyk/IMG_7891.jpg",
+        "Planet Titan CMYK silkscreen run",
+        "planet-titan-cmyk-run"
+      ],
+      [
+        "community_involvement/images/carcass/Carcass poster 2025.jpg",
+        "Carcass Publicity poster",
+        "massart-orgs"
+      ]
+    ]
+  },
+  {
+    "slug": "amelia_zine",
+    "title": "Amelia Zine",
+    "date": "Fall 2025",
+    "category": "Print",
+    "images": [
+      [
+        "assets/homepage_thumbnails/amelia_zine.jpg",
+        "Amelia Zine",
+        ""
+      ],
+      [
+        "amelia_zine/images/covers/amelia1_s.png",
+        "Amelia Zine cover and binding detail",
+        "cover-and-binding-detail"
+      ],
+      [
+        "amelia_zine/images/spreads/spread1_s.png",
+        "Amelia Zine selected spread",
+        "selected-spreads"
+      ],
+      [
+        "amelia_zine/images/covers/amelia2_d.png",
+        "Amelia Zine cover detail",
+        ""
+      ],
+      [
+        "amelia_zine/images/covers/amelia3_d.png",
+        "Amelia Zine binding detail",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "white_heat",
+    "title": "White Heat",
+    "date": "Spring 2026",
+    "category": "Print",
+    "images": [
+      [
+        "assets/homepage_thumbnails/white_heat.jpg",
+        "White Heat",
+        ""
+      ],
+      [
+        "white_heat/images/whiteheat.jpg",
+        "White Heat publication cover or opening spread",
+        "selected-pages"
+      ],
+      [
+        "white_heat/images/front_S.jpg",
+        "White Heat unfolded front side",
+        "unfolded"
+      ],
+      [
+        "white_heat/images/whiteheat3.jpg",
+        "White Heat typography detail",
+        ""
+      ],
+      [
+        "white_heat/images/whiteheat4.jpg",
+        "White Heat interior spread",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "fbmp_gallery",
+    "title": "FaceBook Marketplace Gallery",
+    "date": "Winter 2026",
+    "category": "Digital",
+    "images": [
+      [
+        "assets/homepage_thumbnails/fbmp_gallery.jpg",
+        "FaceBook Marketplace Gallery",
+        ""
+      ],
+      [
+        "fbmp_gallery/images/Digital%20experience/IMG_7731.jpg",
+        "FaceBook Marketplace Gallery digital experience projection",
+        "digital-experience"
+      ],
+      [
+        "fbmp_gallery/images/Installation/IMG_6571.JPG",
+        "FaceBook Marketplace Gallery gallery space view",
+        "gallery-space"
+      ],
+      [
+        "fbmp_gallery/advertisements/flyer.jpg",
+        "FaceBook Marketplace Gallery flyer",
+        "advertisements"
+      ],
+      [
+        "fbmp_gallery/images/website_optimized/website-01.jpg",
+        "FaceBook Marketplace Gallery homepage screenshot",
+        "website"
+      ]
+    ]
+  },
+  {
+    "slug": "speakerwall_box",
+    "title": "Speakerwall Box",
+    "date": "Fall 2025",
+    "category": "Objects",
+    "images": [
+      [
+        "assets/homepage_thumbnails/speakerwall_box.jpg",
+        "Speakerwall Box",
+        ""
+      ],
+      [
+        "speakerwall_box/images/Box%20detail/IMG_7481.jpg",
+        "Speakerwall Box enclosure detail",
+        "box-detail"
+      ],
+      [
+        "speakerwall_box/images/oiled_book/IMG_7477.png",
+        "Oiled essay book cover detail",
+        "oiled-book"
+      ],
+      [
+        "speakerwall_box/images/Selected_spreads/Screenshot%202026-07-07%20at%204.02.40%E2%80%AFPM.png",
+        "Speakerwall Box selected spread 1",
+        "selected-spreads"
+      ],
+      [
+        "speakerwall_box/images/Box%20detail/IMG_7482.jpg",
+        "Speakerwall Box hardware detail",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "data_chapel",
+    "title": "Data Chapel",
+    "date": "Fall 2024",
+    "category": "Digital",
+    "images": [
+      [
+        "assets/homepage_thumbnails/data_chapel.jpg",
+        "Data Chapel",
+        ""
+      ],
+      [
+        "data_chapel/graphic_ephemera/confession_animation.gif",
+        "Data Chapel confession animation",
+        "graphic-ephemera"
+      ],
+      [
+        "data_chapel/graphic_ephemera/frame%20copy%202.png",
+        "Data Chapel frame graphic",
+        ""
+      ],
+      [
+        "data_chapel/graphic_ephemera/Silkscreen1.png",
+        "Data Chapel silkscreen graphic",
+        ""
+      ],
+      [
+        "data_chapel/graphic_ephemera/IMG_9609.jpg",
+        "Data Chapel printed ephemera documentation",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "freddie_famiglietti_branding",
+    "title": "Freddie Famiglietti branding",
+    "date": "Winter—Spring 2026",
+    "category": "Identity",
+    "images": [
+      [
+        "freddie_famiglietti_branding/images/cover.jpg",
+        "Freddie Famiglietti branding cover image",
+        "identity"
+      ],
+      [
+        "freddie_famiglietti_branding/images/optimized/freddie-01.jpg",
+        "Freddie Famiglietti website homepage screenshot",
+        "website"
+      ],
+      [
+        "freddie_famiglietti_branding/images/optimized/freddie-02.jpg",
+        "Freddie Famiglietti website project page screenshot",
+        ""
+      ],
+      [
+        "freddie_famiglietti_branding/images/optimized/freddie-03.jpg",
+        "Freddie Famiglietti website detail screenshot",
+        ""
+      ],
+      [
+        "freddie_famiglietti_branding/images/optimized/freddie-04.jpg",
+        "Freddie Famiglietti website mobile or detail screenshot",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "haystack_mountain_school_of_crafts",
+    "title": "Haystack Mountain School of Crafts",
+    "date": "Summer 2026",
+    "category": "Leadership",
+    "images": [
+      [
+        "haystack_mountain_school_of_crafts/images/studio_time/IMG_0163.jpg",
+        "Haystack Mountain School of Crafts studio documentation",
+        "studio-time"
+      ],
+      [
+        "haystack_mountain_school_of_crafts/images/final_graphics/IMG_0195.jpg",
+        "Haystack final graphic",
+        "final-graphics"
+      ],
+      [
+        "haystack_mountain_school_of_crafts/images/studio_time/IMG_0175.jpg",
+        "Haystack workshop detail",
+        ""
+      ],
+      [
+        "haystack_mountain_school_of_crafts/images/studio_time/IMG_0178.jpg",
+        "Haystack studio process",
+        ""
+      ],
+      [
+        "haystack_mountain_school_of_crafts/images/studio_time/IMG_0180.jpg",
+        "Haystack silkscreen instruction",
+        ""
+      ]
+    ]
+  },
+  {
+    "slug": "nosebleed_data_poster",
+    "title": "Nosebleed Poster",
+    "date": "Spring 2023",
+    "category": "Print",
+    "images": [
+      [
+        "nosebleed_data_poster/cover.png",
+        "Nosebleed Poster design",
+        "poster"
+      ]
+    ]
+  }
+]

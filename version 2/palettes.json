@@ -1,0 +1,26 @@
+{
+  "saved_neon_orange": {
+    "background": "#7eed0a",
+    "accent": "#dd4d00",
+    "text": "#000000",
+    "highlight_text": "#ffffff"
+  },
+  "current_sulfur_cobalt": {
+    "background": "#f0e84a",
+    "accent": "#2835cf",
+    "text": "#000000",
+    "highlight_text": "#ffffff"
+  },
+  "faded_pink_burgundy": {
+    "background": "#edb4cb",
+    "accent": "#711332",
+    "text": "#000000",
+    "highlight_text": "#ffffff"
+  },
+  "ice_blue_vermilion": {
+    "background": "#c5e4ed",
+    "accent": "#b72e14",
+    "text": "#000000",
+    "highlight_text": "#ffffff"
+  }
+}

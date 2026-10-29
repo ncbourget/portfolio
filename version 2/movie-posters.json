@@ -1,0 +1,979 @@
+[
+  {
+    "rank": 99,
+    "title": "Phantom of the Paradise",
+    "letterboxd_url": "https://letterboxd.com/film/phantom-of-the-paradise/",
+    "poster": "assets/movie-posters/phantom-of-the-paradise.jpg",
+    "source_directors": [
+      "Brian De Palma"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/4/6/1/5/34615-phantom-of-the-paradise-0-600-0-900-crop.jpg?v=3c231dd1ff",
+    "source_title": "‎Phantom of the Paradise (1974) directed by Brian De Palma • Reviews, film + cast • Letterboxd",
+    "bytes": 19889
+  },
+  {
+    "rank": 98,
+    "title": "Fear and Loathing in Las Vegas",
+    "letterboxd_url": "https://letterboxd.com/film/fear-and-loathing-in-las-vegas/",
+    "poster": "assets/movie-posters/fear-and-loathing-in-las-vegas.jpg",
+    "source_directors": [
+      "Terry Gilliam"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/0/7/2/5/50725-fear-and-loathing-in-las-vegas-0-600-0-900-crop.jpg?v=ff824b403c",
+    "source_title": "‎Fear and Loathing in Las Vegas (1998) directed by Terry Gilliam • Reviews, film + cast • Letterboxd",
+    "bytes": 25210
+  },
+  {
+    "rank": 95,
+    "title": "The Boy and the Heron",
+    "letterboxd_url": "https://letterboxd.com/film/the-boy-and-the-heron/",
+    "poster": "assets/movie-posters/the-boy-and-the-heron.jpg",
+    "source_directors": [
+      "Hayao Miyazaki"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/3/8/6/9/2/438692-the-boy-and-the-heron-0-600-0-900-crop.jpg?v=521e114164",
+    "source_title": "‎The Boy and the Heron (2023) directed by Hayao Miyazaki • Reviews, film + cast • Letterboxd",
+    "bytes": 21581
+  },
+  {
+    "rank": 94,
+    "title": "That Thing You Do!",
+    "letterboxd_url": "https://letterboxd.com/film/that-thing-you-do/",
+    "poster": "assets/movie-posters/that-thing-you-do.jpg",
+    "source_directors": [
+      "Tom Hanks"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/7/0/1/0/47010-that-thing-you-do--0-600-0-900-crop.jpg?v=322e308b90",
+    "source_title": "‎That Thing You Do! (1996) directed by Tom Hanks • Reviews, film + cast • Letterboxd",
+    "bytes": 17749
+  },
+  {
+    "rank": 93,
+    "title": "Paprika",
+    "letterboxd_url": "https://letterboxd.com/film/paprika-2006/",
+    "poster": "assets/movie-posters/paprika-2006.jpg",
+    "source_directors": [
+      "Satoshi Kon"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/9/0/2/3/49023-paprika-0-600-0-900-crop.jpg?v=bdcabb9981",
+    "source_title": "‎Paprika (2006) directed by Satoshi Kon • Reviews, film + cast • Letterboxd",
+    "bytes": 30922
+  },
+  {
+    "rank": 92,
+    "title": "Killers of the Flower Moon",
+    "letterboxd_url": "https://letterboxd.com/film/killers-of-the-flower-moon/",
+    "poster": "assets/movie-posters/killers-of-the-flower-moon.jpg",
+    "source_directors": [
+      "Martin Scorsese"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/9/8/0/0/9/398009-killers-of-the-flower-moon-0-600-0-900-crop.jpg?v=49b577149d",
+    "source_title": "‎Killers of the Flower Moon (2023) directed by Martin Scorsese • Reviews, film + cast • Letterboxd",
+    "bytes": 21067
+  },
+  {
+    "rank": 91,
+    "title": "The Shining",
+    "letterboxd_url": "https://letterboxd.com/film/the-shining/",
+    "poster": "assets/movie-posters/the-shining.jpg",
+    "source_directors": [
+      "Stanley Kubrick"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/7s/m2/bw/d0/caoYMcjUamGoBVy65i1AHJBvdzw-0-600-0-900-crop.jpg?v=88d9d6cce4",
+    "source_title": "‎The Shining (1980) directed by Stanley Kubrick • Reviews, film + cast • Letterboxd",
+    "bytes": 10776
+  },
+  {
+    "rank": 90,
+    "title": "Fantastic Mr. Fox",
+    "letterboxd_url": "https://letterboxd.com/film/fantastic-mr-fox/",
+    "poster": "assets/movie-posters/fantastic-mr-fox.jpg",
+    "source_directors": [
+      "Wes Anderson"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-600-0-900-crop.jpg?v=3a2a858065",
+    "source_title": "‎Fantastic Mr. Fox (2009) directed by Wes Anderson • Reviews, film + cast • Letterboxd",
+    "bytes": 16145
+  },
+  {
+    "rank": 89,
+    "title": "Cool Hand Luke",
+    "letterboxd_url": "https://letterboxd.com/film/cool-hand-luke/",
+    "poster": "assets/movie-posters/cool-hand-luke.jpg",
+    "source_directors": [
+      "Stuart Rosenberg"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/11/m8/qg/qc/1qbMudClWdExuNL24AphbTq2sjN-0-600-0-900-crop.jpg?v=dc197a6ec9",
+    "source_title": "‎Cool Hand Luke (1967) directed by Stuart Rosenberg • Reviews, film + cast • Letterboxd",
+    "bytes": 22334
+  },
+  {
+    "rank": 88,
+    "title": "Ginger Snaps",
+    "letterboxd_url": "https://letterboxd.com/film/ginger-snaps/",
+    "poster": "assets/movie-posters/ginger-snaps.jpg",
+    "source_directors": [
+      "John Fawcett"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/6/7/6/2/46762-ginger-snaps-0-600-0-900-crop.jpg?v=89b7114ec9",
+    "source_title": "‎Ginger Snaps (2000) directed by John Fawcett • Reviews, film + cast • Letterboxd",
+    "bytes": 20039
+  },
+  {
+    "rank": 86,
+    "title": "SLC Punk!",
+    "letterboxd_url": "https://letterboxd.com/film/slc-punk/",
+    "poster": "assets/movie-posters/slc-punk.jpg",
+    "source_directors": [
+      "James Merendino"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/8/3/3/5/48335-slc-punk-0-600-0-900-crop.jpg?v=d107067c95",
+    "source_title": "‎SLC Punk (1998) directed by James Merendino • Reviews, film + cast • Letterboxd",
+    "bytes": 17800
+  },
+  {
+    "rank": 85,
+    "title": "Requiem for a Dream",
+    "letterboxd_url": "https://letterboxd.com/film/requiem-for-a-dream/",
+    "poster": "assets/movie-posters/requiem-for-a-dream.jpg",
+    "source_directors": [
+      "Darren Aronofsky"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/lv/4b/f2/zj/muym4jTjdLx7E6as09d1wlC3sOB-0-600-0-900-crop.jpg?v=b4d5a4aa37",
+    "source_title": "‎Requiem for a Dream (2000) directed by Darren Aronofsky • Reviews, film + cast • Letterboxd",
+    "bytes": 18375
+  },
+  {
+    "rank": 84,
+    "title": "Pulp Fiction",
+    "letterboxd_url": "https://letterboxd.com/film/pulp-fiction/",
+    "poster": "assets/movie-posters/pulp-fiction.jpg",
+    "source_directors": [
+      "Quentin Tarantino"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-600-0-900-crop.jpg?v=dee19a8077",
+    "source_title": "‎Pulp Fiction (1994) directed by Quentin Tarantino • Reviews, film + cast • Letterboxd",
+    "bytes": 26655
+  },
+  {
+    "rank": 83,
+    "title": "Frankenhooker",
+    "letterboxd_url": "https://letterboxd.com/film/frankenhooker/",
+    "poster": "assets/movie-posters/frankenhooker.jpg",
+    "source_directors": [
+      "Frank Henenlotter"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/gz/o6/ae/rc/nZKXY2R8PR8yD7LHvUbvVU9VJDy-0-600-0-900-crop.jpg?v=aeb7ac94b2",
+    "source_title": "‎Frankenhooker (1990) directed by Frank Henenlotter • Reviews, film + cast • Letterboxd",
+    "bytes": 23064
+  },
+  {
+    "rank": 82,
+    "title": "The Social Network",
+    "letterboxd_url": "https://letterboxd.com/film/the-social-network/",
+    "poster": "assets/movie-posters/the-social-network.jpg",
+    "source_directors": [
+      "David Fincher"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/nw/cm/pa/ai/sGQv3ZMZBDBnl3z42Q0mEQ5uiDe-0-600-0-900-crop.jpg?v=54ee59f7cd",
+    "source_title": "‎The Social Network (2010) directed by David Fincher • Reviews, film + cast • Letterboxd",
+    "bytes": 13052
+  },
+  {
+    "rank": 81,
+    "title": "The Departed",
+    "letterboxd_url": "https://letterboxd.com/film/the-departed/",
+    "poster": "assets/movie-posters/the-departed.jpg",
+    "source_directors": [
+      "Martin Scorsese"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/jr/th/pu/pb/laefkgrfa3oKwvBtWTBtf2suiI4-0-600-0-900-crop.jpg?v=f5d8231026",
+    "source_title": "‎The Departed (2006) directed by Martin Scorsese • Reviews, film + cast • Letterboxd",
+    "bytes": 14370
+  },
+  {
+    "rank": 80,
+    "title": "The Green Knight",
+    "letterboxd_url": "https://letterboxd.com/film/the-green-knight/",
+    "poster": "assets/movie-posters/the-green-knight.jpg",
+    "source_directors": [
+      "David Lowery"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/9/9/488399-the-green-knight-0-600-0-900-crop.jpg?v=874a267b92",
+    "source_title": "‎The Green Knight (2021) directed by David Lowery • Reviews, film + cast • Letterboxd",
+    "bytes": 15997
+  },
+  {
+    "rank": 79,
+    "title": "Limitless",
+    "letterboxd_url": "https://letterboxd.com/film/limitless/",
+    "poster": "assets/movie-posters/limitless.jpg",
+    "source_directors": [
+      "Neil Burger"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/2/13972-limitless-0-600-0-900-crop.jpg?v=7599c9da90",
+    "source_title": "‎Limitless (2011) directed by Neil Burger • Reviews, film + cast • Letterboxd",
+    "bytes": 22308
+  },
+  {
+    "rank": 78,
+    "title": "Videodrome",
+    "letterboxd_url": "https://letterboxd.com/film/videodrome/",
+    "poster": "assets/movie-posters/videodrome.jpg",
+    "source_directors": [
+      "David Cronenberg"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/xw/sw/3v/st/o8psaYgwTYFpqJhHISoMq178J4n-0-600-0-900-crop.jpg?v=837f65a552",
+    "source_title": "‎Videodrome (1983) directed by David Cronenberg • Reviews, film + cast • Letterboxd",
+    "bytes": 14302
+  },
+  {
+    "rank": 77,
+    "title": "Hellraiser",
+    "letterboxd_url": "https://letterboxd.com/film/hellraiser/",
+    "poster": "assets/movie-posters/hellraiser.jpg",
+    "source_directors": [
+      "Clive Barker"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/7/4/3/8/47438-hellraiser-0-600-0-900-crop.jpg?v=c927113564",
+    "source_title": "‎Hellraiser (1987) directed by Clive Barker • Reviews, film + cast • Letterboxd",
+    "bytes": 20081
+  },
+  {
+    "rank": 75,
+    "title": "The Holdovers",
+    "letterboxd_url": "https://letterboxd.com/film/the-holdovers/",
+    "poster": "assets/movie-posters/the-holdovers.jpg",
+    "source_directors": [
+      "Alexander Payne"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/7/5/5/5/6/4/755564-the-holdovers-0-600-0-900-crop.jpg?v=99bbdd8955",
+    "source_title": "‎The Holdovers (2023) directed by Alexander Payne • Reviews, film + cast • Letterboxd",
+    "bytes": 13612
+  },
+  {
+    "rank": 72,
+    "title": "Hausu",
+    "letterboxd_url": "https://letterboxd.com/film/house/",
+    "poster": "assets/movie-posters/house.jpg",
+    "source_directors": [
+      "Nobuhiko Obayashi"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/7f/z3/ho/6j/6vblWscFAbIm9V5CwHC7IImgAq9-0-600-0-900-crop.jpg?v=b505ff45b0",
+    "source_title": "‎House (1977) directed by Nobuhiko Obayashi • Reviews, film + cast • Letterboxd",
+    "bytes": 15917
+  },
+  {
+    "rank": 71,
+    "title": "The Prestige",
+    "letterboxd_url": "https://letterboxd.com/film/the-prestige/",
+    "poster": "assets/movie-posters/the-prestige.jpg",
+    "source_directors": [
+      "Christopher Nolan"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/1/4/7/51147-the-prestige-0-600-0-900-crop.jpg?v=ad7e891177",
+    "source_title": "‎The Prestige (2006) directed by Christopher Nolan • Reviews, film + cast • Letterboxd",
+    "bytes": 13209
+  },
+  {
+    "rank": 70,
+    "title": "Lost Highway",
+    "letterboxd_url": "https://letterboxd.com/film/lost-highway/",
+    "poster": "assets/movie-posters/lost-highway.jpg",
+    "source_directors": [
+      "David Lynch"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f",
+    "source_title": "‎Lost Highway (1997) directed by David Lynch • Reviews, film + cast • Letterboxd",
+    "bytes": 14341
+  },
+  {
+    "rank": 69,
+    "title": "Under the Silver Lake",
+    "letterboxd_url": "https://letterboxd.com/film/under-the-silver-lake/",
+    "poster": "assets/movie-posters/under-the-silver-lake.jpg",
+    "source_directors": [
+      "David Robert Mitchell"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/3/0/8/1/0/330810-under-the-silver-lake-0-600-0-900-crop.jpg?v=28f0cabef3",
+    "source_title": "‎Under the Silver Lake (2018) directed by David Robert Mitchell • Reviews, film + cast • Letterboxd",
+    "bytes": 12849
+  },
+  {
+    "rank": 68,
+    "title": "Eyes Without a Face",
+    "letterboxd_url": "https://letterboxd.com/film/eyes-without-a-face/",
+    "poster": "assets/movie-posters/eyes-without-a-face.jpg",
+    "source_directors": [
+      "Georges Franju"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/1/1/9/4/31194-eyes-without-a-face-0-600-0-900-crop.jpg?v=80edfca3cc",
+    "source_title": "‎Eyes Without a Face (1960) directed by Georges Franju • Reviews, film + cast • Letterboxd",
+    "bytes": 16298
+  },
+  {
+    "rank": 67,
+    "title": "Inglourious Basterds",
+    "letterboxd_url": "https://letterboxd.com/film/inglourious-basterds/",
+    "poster": "assets/movie-posters/inglourious-basterds.jpg",
+    "source_directors": [
+      "Quentin Tarantino"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/1/3/5/2/41352-inglourious-basterds-0-600-0-900-crop.jpg?v=0c74c673e0",
+    "source_title": "‎Inglourious Basterds (2009) directed by Quentin Tarantino • Reviews, film + cast • Letterboxd",
+    "bytes": 18608
+  },
+  {
+    "rank": 66,
+    "title": "Cobain: Montage of Heck",
+    "letterboxd_url": "https://letterboxd.com/film/cobain-montage-of-heck/",
+    "poster": "assets/movie-posters/cobain-montage-of-heck.jpg",
+    "source_directors": [
+      "Brett Morgen"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/2/4/6/2/0/8/246208-cobain-montage-of-heck-0-600-0-900-crop.jpg?v=577c9d95b0",
+    "source_title": "‎Cobain: Montage of Heck (2015) directed by Brett Morgen • Reviews, film + cast • Letterboxd",
+    "bytes": 17135
+  },
+  {
+    "rank": 65,
+    "title": "Perfect Blue",
+    "letterboxd_url": "https://letterboxd.com/film/perfect-blue/",
+    "poster": "assets/movie-posters/perfect-blue.jpg",
+    "source_directors": [
+      "Satoshi Kon"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/6/1/7/5/46175-perfect-blue-0-600-0-900-crop.jpg?v=1ed5878cce",
+    "source_title": "‎Perfect Blue (1997) directed by Satoshi Kon • Reviews, film + cast • Letterboxd",
+    "bytes": 18259
+  },
+  {
+    "rank": 64,
+    "title": "Nitrate Kisses",
+    "letterboxd_url": "https://letterboxd.com/film/nitrate-kisses/",
+    "poster": "assets/movie-posters/nitrate-kisses.jpg",
+    "source_directors": [
+      "Barbara Hammer"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/1/2/0/8/1/2/120812-nitrate-kisses-0-600-0-900-crop.jpg?v=3d9b395b42",
+    "source_title": "‎Nitrate Kisses (1992) directed by Barbara Hammer • Reviews, film + cast • Letterboxd",
+    "bytes": 18207
+  },
+  {
+    "rank": 63,
+    "title": "The Rocky Horror Picture Show",
+    "letterboxd_url": "https://letterboxd.com/film/the-rocky-horror-picture-show/",
+    "poster": "assets/movie-posters/the-rocky-horror-picture-show.jpg",
+    "source_directors": [
+      "Jim Sharman"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/2/7/6/9/8/27698-the-rocky-horror-picture-show-0-600-0-900-crop.jpg?v=737e51d6bc",
+    "source_title": "‎The Rocky Horror Picture Show (1975) directed by Jim Sharman • Reviews, film + cast • Letterboxd",
+    "bytes": 10547
+  },
+  {
+    "rank": 62,
+    "title": "My Neighbor Totoro",
+    "letterboxd_url": "https://letterboxd.com/film/my-neighbor-totoro/",
+    "poster": "assets/movie-posters/my-neighbor-totoro.jpg",
+    "source_directors": [
+      "Hayao Miyazaki"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/7/7/5/6/47756-my-neighbor-totoro-0-600-0-900-crop.jpg?v=749abe71ad",
+    "source_title": "‎My Neighbor Totoro (1988) directed by Hayao Miyazaki • Reviews, film + cast • Letterboxd",
+    "bytes": 20484
+  },
+  {
+    "rank": 61,
+    "title": "Howl’s Moving Castle",
+    "letterboxd_url": "https://letterboxd.com/film/howls-moving-castle/",
+    "poster": "assets/movie-posters/howls-moving-castle.jpg",
+    "source_directors": [
+      "Hayao Miyazaki"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/9/0/6/2/49062-howl-s-moving-castle-0-600-0-900-crop.jpg?v=fde81bda52",
+    "source_title": "‎Howl's Moving Castle (2004) directed by Hayao Miyazaki • Reviews, film + cast • Letterboxd",
+    "bytes": 24674
+  },
+  {
+    "rank": 60,
+    "title": "Inception",
+    "letterboxd_url": "https://letterboxd.com/film/inception/",
+    "poster": "assets/movie-posters/inception.jpg",
+    "source_directors": [
+      "Christopher Nolan"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/sv/95/s9/4j/inception-0-600-0-900-crop.jpg?v=30d7224316",
+    "source_title": "‎Inception (2010) directed by Christopher Nolan • Reviews, film + cast • Letterboxd",
+    "bytes": 21924
+  },
+  {
+    "rank": 59,
+    "title": "The Doom Generation",
+    "letterboxd_url": "https://letterboxd.com/film/the-doom-generation/",
+    "poster": "assets/movie-posters/the-doom-generation.jpg",
+    "source_directors": [
+      "Gregg Araki"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/3/7/9/2/43792-the-doom-generation-0-600-0-900-crop.jpg?v=72134ca389",
+    "source_title": "‎The Doom Generation (1995) directed by Gregg Araki • Reviews, film + cast • Letterboxd",
+    "bytes": 15840
+  },
+  {
+    "rank": 58,
+    "title": "Dead Leaves",
+    "letterboxd_url": "https://letterboxd.com/film/dead-leaves/",
+    "poster": "assets/movie-posters/dead-leaves.jpg",
+    "source_directors": [
+      "Hiroyuki Imaishi"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/1/9/3/1/41931-dead-leaves-0-600-0-900-crop.jpg?v=247f7c45da",
+    "source_title": "‎Dead Leaves (2004) directed by Hiroyuki Imaishi • Reviews, film + cast • Letterboxd",
+    "bytes": 27963
+  },
+  {
+    "rank": 57,
+    "title": "Black Swan",
+    "letterboxd_url": "https://letterboxd.com/film/black-swan/",
+    "poster": "assets/movie-posters/black-swan.jpg",
+    "source_directors": [
+      "Darren Aronofsky"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/yt/ae/iz/kj/bIjkE9Og0nulRycj144sCcQcsZ6-0-600-0-900-crop.jpg?v=a571e4c644",
+    "source_title": "‎Black Swan (2010) directed by Darren Aronofsky • Reviews, film + cast • Letterboxd",
+    "bytes": 13632
+  },
+  {
+    "rank": 56,
+    "title": "High and Low",
+    "letterboxd_url": "https://letterboxd.com/film/high-and-low/",
+    "poster": "assets/movie-posters/high-and-low.jpg",
+    "source_directors": [
+      "Akira Kurosawa"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/do/zm/ur/ug/dgnyE40yWdI7gbaHmmB5yCCIVpI-0-600-0-900-crop.jpg?v=b0fd9f50fd",
+    "source_title": "‎High and Low (1963) directed by Akira Kurosawa • Reviews, film + cast • Letterboxd",
+    "bytes": 25377
+  },
+  {
+    "rank": 55,
+    "title": "The Matrix",
+    "letterboxd_url": "https://letterboxd.com/film/the-matrix/",
+    "poster": "assets/movie-posters/the-matrix.jpg",
+    "source_directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-600-0-900-crop.jpg?v=fc7c366afe",
+    "source_title": "‎The Matrix (1999) directed by Lana Wachowski, Lilly Wachowski • Reviews, film + cast • Letterboxd",
+    "bytes": 20719
+  },
+  {
+    "rank": 54,
+    "title": "Drugstore Cowboy",
+    "letterboxd_url": "https://letterboxd.com/film/drugstore-cowboy/",
+    "poster": "assets/movie-posters/drugstore-cowboy.jpg",
+    "source_directors": [
+      "Gus Van Sant"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/8/51628-drugstore-cowboy-0-600-0-900-crop.jpg?v=3614000bb8",
+    "source_title": "‎Drugstore Cowboy (1989) directed by Gus Van Sant • Reviews, film + cast • Letterboxd",
+    "bytes": 21326
+  },
+  {
+    "rank": 53,
+    "title": "Run Lola Run",
+    "letterboxd_url": "https://letterboxd.com/film/run-lola-run/",
+    "poster": "assets/movie-posters/run-lola-run.jpg",
+    "source_directors": [
+      "Tom Tykwer"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/6/51946-run-lola-run-0-600-0-900-crop.jpg?v=06ffcb44b3",
+    "source_title": "‎Run Lola Run (1998) directed by Tom Tykwer • Reviews, film + cast • Letterboxd",
+    "bytes": 20106
+  },
+  {
+    "rank": 52,
+    "title": "Contact",
+    "letterboxd_url": "https://letterboxd.com/film/contact/",
+    "poster": "assets/movie-posters/contact.jpg",
+    "source_directors": [
+      "Robert Zemeckis"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/4/4/0/51440-contact-0-600-0-900-crop.jpg?v=d9b4fecd9b",
+    "source_title": "‎Contact (1997) directed by Robert Zemeckis • Reviews, film + cast • Letterboxd",
+    "bytes": 17981
+  },
+  {
+    "rank": 51,
+    "title": "Mickey 17",
+    "letterboxd_url": "https://letterboxd.com/film/mickey-17/",
+    "poster": "assets/movie-posters/mickey-17.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/6/2/0/2/8/1/620281-mickey-17-0-600-0-900-crop.jpg?v=93e4d2af6d",
+    "source_title": "‎Mickey 17 (2025) directed by Bong Joon Ho • Reviews, film + cast • Letterboxd",
+    "bytes": 20761
+  },
+  {
+    "rank": 50,
+    "title": "The Grand Budapest Hotel",
+    "letterboxd_url": "https://letterboxd.com/film/the-grand-budapest-hotel/",
+    "poster": "assets/movie-posters/the-grand-budapest-hotel.jpg",
+    "source_directors": [
+      "Wes Anderson"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/9/5/1/1/3/95113-the-grand-budapest-hotel-0-600-0-900-crop.jpg?v=6ac71cf4ba",
+    "source_title": "‎The Grand Budapest Hotel (2014) directed by Wes Anderson • Reviews, film + cast • Letterboxd",
+    "bytes": 23585
+  },
+  {
+    "rank": 48,
+    "title": "The Tragedy of Macbeth",
+    "letterboxd_url": "https://letterboxd.com/film/the-tragedy-of-macbeth/",
+    "poster": "assets/movie-posters/the-tragedy-of-macbeth.jpg",
+    "source_directors": [
+      "Joel Coen"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/5/2/519052-the-tragedy-of-macbeth-0-600-0-900-crop.jpg?v=2feba2c908",
+    "source_title": "‎The Tragedy of Macbeth (2021) directed by Joel Coen • Reviews, film + cast • Letterboxd",
+    "bytes": 16211
+  },
+  {
+    "rank": 47,
+    "title": "Delicatessen",
+    "letterboxd_url": "https://letterboxd.com/film/delicatessen/",
+    "poster": "assets/movie-posters/delicatessen.jpg",
+    "source_directors": [
+      "Jean-Pierre Jeunet",
+      "Marc Caro"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/2/6/0/51260-delicatessen-0-600-0-900-crop.jpg?v=dca54560ba",
+    "source_title": "‎Delicatessen (1991) directed by Jean-Pierre Jeunet, Marc Caro • Reviews, film + cast • Letterboxd",
+    "bytes": 15607
+  },
+  {
+    "rank": 46,
+    "title": "Paris Is Burning",
+    "letterboxd_url": "https://letterboxd.com/film/paris-is-burning/",
+    "poster": "assets/movie-posters/paris-is-burning.jpg",
+    "source_directors": [
+      "Jennie Livingston"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/1/3/5/5/31355-paris-is-burning-0-600-0-900-crop.jpg?v=5f4fd6ecd0",
+    "source_title": "‎Paris Is Burning (1990) directed by Jennie Livingston • Reviews, film + cast • Letterboxd",
+    "bytes": 20140
+  },
+  {
+    "rank": 45,
+    "title": "Schindler’s List",
+    "letterboxd_url": "https://letterboxd.com/film/schindlers-list/",
+    "poster": "assets/movie-posters/schindlers-list.jpg",
+    "source_directors": [
+      "Steven Spielberg"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/bz/1x/em/jr/yPisjyLweCl1tbgwgtzBCNCBle-0-600-0-900-crop.jpg?v=ca5215c5a9",
+    "source_title": "‎Schindler's List (1993) directed by Steven Spielberg • Reviews, film + cast • Letterboxd",
+    "bytes": 17430
+  },
+  {
+    "rank": 44,
+    "title": "Shallow Grave",
+    "letterboxd_url": "https://letterboxd.com/film/shallow-grave/",
+    "poster": "assets/movie-posters/shallow-grave.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/6/7/2/9/46729-shallow-grave-0-600-0-900-crop.jpg?v=70c7610d76",
+    "source_title": "‎Shallow Grave (1994) directed by Danny Boyle • Reviews, film + cast • Letterboxd",
+    "bytes": 13888
+  },
+  {
+    "rank": 43,
+    "title": "Ghost in the Shell",
+    "letterboxd_url": "https://letterboxd.com/film/ghost-in-the-shell/",
+    "poster": "assets/movie-posters/ghost-in-the-shell.jpg",
+    "source_directors": [
+      "Mamoru Oshii"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/7/2/7/0/47270-ghost-in-the-shell-0-600-0-900-crop.jpg?v=c837d80ee1",
+    "source_title": "‎Ghost in the Shell (1995) directed by Mamoru Oshii • Reviews, film + cast • Letterboxd",
+    "bytes": 18312
+  },
+  {
+    "rank": 42,
+    "title": "Kill Bill: Vol. 1",
+    "letterboxd_url": "https://letterboxd.com/film/kill-bill-vol-1/",
+    "poster": "assets/movie-posters/kill-bill-vol-1.jpg",
+    "source_directors": [
+      "Quentin Tarantino"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/sw/w2/ep/v4/9O50TVszkz0dcP5g6Ej33UhR7vw-0-600-0-900-crop.jpg?v=5a65f5202f",
+    "source_title": "‎Kill Bill: Vol. 1 (2003) directed by Quentin Tarantino • Reviews, film + cast • Letterboxd",
+    "bytes": 11853
+  },
+  {
+    "rank": 41,
+    "title": "Amadeus",
+    "letterboxd_url": "https://letterboxd.com/film/amadeus/",
+    "poster": "assets/movie-posters/amadeus.jpg",
+    "source_directors": [
+      "Miloš Forman"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-600-0-900-crop.jpg?v=907dc282ae",
+    "source_title": "‎Amadeus (1984) directed by Miloš Forman • Reviews, film + cast • Letterboxd",
+    "bytes": 16846
+  },
+  {
+    "rank": 40,
+    "title": "Sirāt",
+    "letterboxd_url": "https://letterboxd.com/film/sirat-2025/",
+    "poster": "assets/movie-posters/sirat-2025.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/1/0/3/7/7/7/7/1037777-sirat-2025-0-600-0-900-crop.jpg?v=1660cb1f29",
+    "source_title": "‎Sirāt (2025) directed by Oliver Laxe • Reviews, film + cast • Letterboxd",
+    "bytes": 11098
+  },
+  {
+    "rank": 39,
+    "title": "Weapons",
+    "letterboxd_url": "https://letterboxd.com/film/weapons-2025/",
+    "poster": "assets/movie-posters/weapons-2025.jpg",
+    "source_directors": [
+      "Zach Cregger"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/9/7/2/1/0/9/972109-weapons-2025-0-600-0-900-crop.jpg?v=8100270337",
+    "source_title": "‎Weapons (2025) directed by Zach Cregger • Reviews, film + cast • Letterboxd",
+    "bytes": 10747
+  },
+  {
+    "rank": 36,
+    "title": "Almost Famous",
+    "letterboxd_url": "https://letterboxd.com/film/almost-famous/",
+    "poster": "assets/movie-posters/almost-famous.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/8r/4k/tl/rx/mlOGVofLSyFAoVYcjVS2WRVvQjr-0-600-0-900-crop.jpg?v=ffceabaa03",
+    "source_title": "‎Almost Famous (2000) directed by Cameron Crowe • Reviews, film + cast • Letterboxd",
+    "bytes": 20164
+  },
+  {
+    "rank": 35,
+    "title": "The Dark Knight",
+    "letterboxd_url": "https://letterboxd.com/film/the-dark-knight/",
+    "poster": "assets/movie-posters/the-dark-knight.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/78/y5/zg/ej/oefdD26aey8GPdx7Rm45PNncJdU-0-600-0-900-crop.jpg?v=2d0ce4be25",
+    "source_title": "‎The Dark Knight (2008) directed by Christopher Nolan • Reviews, film + cast • Letterboxd",
+    "bytes": 22948
+  },
+  {
+    "rank": 34,
+    "title": "Zodiac",
+    "letterboxd_url": "https://letterboxd.com/film/zodiac/",
+    "poster": "assets/movie-posters/zodiac.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/58/tf/z6/gw/qKQIjErYaN149hZRP5Vgf8RoC7S-0-600-0-900-crop.jpg?v=72ee5db942",
+    "source_title": "‎Zodiac (2007) directed by David Fincher • Reviews, film + cast • Letterboxd",
+    "bytes": 11118
+  },
+  {
+    "rank": 33,
+    "title": "Parasite",
+    "letterboxd_url": "https://letterboxd.com/film/parasite-2019/",
+    "poster": "assets/movie-posters/parasite-2019.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-600-0-900-crop.jpg?v=8f5653f710",
+    "source_title": "‎Parasite (2019) directed by Bong Joon Ho • Reviews, film + cast • Letterboxd",
+    "bytes": 22945
+  },
+  {
+    "rank": 32,
+    "title": "The Game",
+    "letterboxd_url": "https://letterboxd.com/film/the-game/",
+    "poster": "assets/movie-posters/the-game.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/p4/tj/oj/ph/4b7QXyDJsDFXrwVHUNlrmezCZJC-0-600-0-900-crop.jpg?v=0f6a2cc0bb",
+    "source_title": "‎The Game (1997) directed by David Fincher • Reviews, film + cast • Letterboxd",
+    "bytes": 10993
+  },
+  {
+    "rank": 31,
+    "title": "Uncut Gems",
+    "letterboxd_url": "https://letterboxd.com/film/uncut-gems/",
+    "poster": "assets/movie-posters/uncut-gems.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/0/4/2/6/6/404266-uncut-gems-0-600-0-900-crop.jpg?v=670cb7034d",
+    "source_title": "‎Uncut Gems (2019) directed by Josh Safdie, Benny Safdie • Reviews, film + cast • Letterboxd",
+    "bytes": 10812
+  },
+  {
+    "rank": 30,
+    "title": "The Big Lebowski",
+    "letterboxd_url": "https://letterboxd.com/film/the-big-lebowski/",
+    "poster": "assets/movie-posters/the-big-lebowski.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/5/51935-the-big-lebowski-0-600-0-900-crop.jpg?v=5cd64defcf",
+    "source_title": "‎The Big Lebowski (1998) directed by Joel Coen • Reviews, film + cast • Letterboxd",
+    "bytes": 19535
+  },
+  {
+    "rank": 29,
+    "title": "Beetlejuice",
+    "letterboxd_url": "https://letterboxd.com/film/beetlejuice/",
+    "poster": "assets/movie-posters/beetlejuice.jpg",
+    "source_directors": [
+      "Tim Burton"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/rs/wk/3i/nt/gWnW7vxm8yr01TVLQhL4aI02orp-0-600-0-900-crop.jpg?v=f8250fbc59",
+    "source_title": "‎Beetlejuice (1988) directed by Tim Burton • Reviews, film + cast • Letterboxd",
+    "bytes": 22603
+  },
+  {
+    "rank": 28,
+    "title": "Whiplash",
+    "letterboxd_url": "https://letterboxd.com/film/whiplash-2014/",
+    "poster": "assets/movie-posters/whiplash-2014.jpg",
+    "source_directors": [
+      "Damien Chazelle"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/cl/dn/kr/f1/4C9LHDxMsoYI0S3iMPZdm3Oevwo-0-600-0-900-crop.jpg?v=d13ea36528",
+    "source_title": "‎Whiplash (2014) directed by Damien Chazelle • Reviews, film + cast • Letterboxd",
+    "bytes": 9772
+  },
+  {
+    "rank": 27,
+    "title": "Coonskin",
+    "letterboxd_url": "https://letterboxd.com/film/coonskin/",
+    "poster": "assets/movie-posters/coonskin.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/4/2/6/4/34264-coonskin-0-600-0-900-crop.jpg?v=dfec4fdc98",
+    "source_title": "‎Coonskin (1975) directed by Ralph Bakshi • Reviews, film + cast • Letterboxd",
+    "bytes": 22559
+  },
+  {
+    "rank": 26,
+    "title": "The Royal Tenenbaums",
+    "letterboxd_url": "https://letterboxd.com/film/the-royal-tenenbaums/",
+    "poster": "assets/movie-posters/the-royal-tenenbaums.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/sf/k0/qu/5o/5xw30y0pSaMtTcuZW5VaQPiR8qb-0-600-0-900-crop.jpg?v=b945b566a6",
+    "source_title": "‎The Royal Tenenbaums (2001) directed by Wes Anderson • Reviews, film + cast • Letterboxd",
+    "bytes": 24037
+  },
+  {
+    "rank": 25,
+    "title": "The Long Goodbye",
+    "letterboxd_url": "https://letterboxd.com/film/the-long-goodbye/",
+    "poster": "assets/movie-posters/the-long-goodbye.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/0/7/5/2/50752-the-long-goodbye-0-600-0-900-crop.jpg?v=09d57c0d87",
+    "source_title": "‎The Long Goodbye (1973) directed by Robert Altman • Reviews, film + cast • Letterboxd",
+    "bytes": 13076
+  },
+  {
+    "rank": 24,
+    "title": "The Point",
+    "letterboxd_url": "https://letterboxd.com/film/the-point/",
+    "poster": "assets/movie-posters/the-point.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/7/3/1/8/37318-the-point--0-600-0-900-crop.jpg?v=e20c3f995b",
+    "source_title": "‎The Point (1971) directed by Fred Wolf • Reviews, film + cast • Letterboxd",
+    "bytes": 17198
+  },
+  {
+    "rank": 23,
+    "title": "Dune: Part Two",
+    "letterboxd_url": "https://letterboxd.com/film/dune-part-two/",
+    "poster": "assets/movie-posters/dune-part-two.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-600-0-900-crop.jpg?v=cc533700f8",
+    "source_title": "‎Dune: Part Two (2024) directed by Denis Villeneuve • Reviews, film + cast • Letterboxd",
+    "bytes": 9180
+  },
+  {
+    "rank": 22,
+    "title": "Akira",
+    "letterboxd_url": "https://letterboxd.com/film/akira/",
+    "poster": "assets/movie-posters/akira.jpg",
+    "source_directors": [
+      "Katsuhiro Otomo"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-600-0-900-crop.jpg?v=dd1e90619a",
+    "source_title": "‎Akira (1988) directed by Katsuhiro Otomo • Reviews, film + cast • Letterboxd",
+    "bytes": 16334
+  },
+  {
+    "rank": 21,
+    "title": "The End of Evangelion",
+    "letterboxd_url": "https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion/",
+    "poster": "assets/movie-posters/neon-genesis-evangelion-the-end-of-evangelion.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/0/3/1/1/40311-neon-genesis-evangelion-the-end-of-evangelion-0-600-0-900-crop.jpg?v=3f8b0ad85b",
+    "source_title": "‎Neon Genesis Evangelion: The End of Evangelion (1997) directed by Hideaki Anno, Kazuya Tsurumaki • Reviews, film + cast • Letterboxd",
+    "bytes": 19296
+  },
+  {
+    "rank": 20,
+    "title": "Lords of Chaos",
+    "letterboxd_url": "https://letterboxd.com/film/lords-of-chaos/",
+    "poster": "assets/movie-posters/lords-of-chaos.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/5/9/5/5/9/359559-lords-of-chaos-0-600-0-900-crop.jpg?v=805c8134d4",
+    "source_title": "‎Lords of Chaos (2018) directed by Jonas Åkerlund • Reviews, film + cast • Letterboxd",
+    "bytes": 10249
+  },
+  {
+    "rank": 19,
+    "title": "Smiley Face",
+    "letterboxd_url": "https://letterboxd.com/film/smiley-face/",
+    "poster": "assets/movie-posters/smiley-face.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/4/0/8/2/44082-smiley-face-0-600-0-900-crop.jpg?v=6a26889931",
+    "source_title": "‎Smiley Face (2007) directed by Gregg Araki • Reviews, film + cast • Letterboxd",
+    "bytes": 17242
+  },
+  {
+    "rank": 18,
+    "title": "Dallas Buyers Club",
+    "letterboxd_url": "https://letterboxd.com/film/dallas-buyers-club/",
+    "poster": "assets/movie-posters/dallas-buyers-club.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/1/1/4/6/0/5/114605-dallas-buyers-club-0-600-0-900-crop.jpg?v=f1a830ac72",
+    "source_title": "‎Dallas Buyers Club (2013) directed by Jean-Marc Vallée • Reviews, film + cast • Letterboxd",
+    "bytes": 16635
+  },
+  {
+    "rank": 17,
+    "title": "Rushmore",
+    "letterboxd_url": "https://letterboxd.com/film/rushmore/",
+    "poster": "assets/movie-posters/rushmore.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-600-0-900-crop.jpg?v=e356b53de6",
+    "source_title": "‎Rushmore (1998) directed by Wes Anderson • Reviews, film + cast • Letterboxd",
+    "bytes": 20688
+  },
+  {
+    "rank": 16,
+    "title": "Everything Everywhere All at Once",
+    "letterboxd_url": "https://letterboxd.com/film/everything-everywhere-all-at-once/",
+    "poster": "assets/movie-posters/everything-everywhere-all-at-once.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-600-0-900-crop.jpg?v=281f1a041e",
+    "source_title": "‎Everything Everywhere All at Once (2022) directed by Daniel Scheinert, Daniel Kwan • Reviews, film + cast • Letterboxd",
+    "bytes": 36680
+  },
+  {
+    "rank": 15,
+    "title": "American Psycho",
+    "letterboxd_url": "https://letterboxd.com/film/american-psycho/",
+    "poster": "assets/movie-posters/american-psycho.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/5b/u9/av/il/ecoY7zJL6Ub3URP1oPhPfGflEjV-0-600-0-900-crop.jpg?v=8126850315",
+    "source_title": "‎American Psycho (2000) directed by Mary Harron • Reviews, film + cast • Letterboxd",
+    "bytes": 15791
+  },
+  {
+    "rank": 14,
+    "title": "Scorpio Rising",
+    "letterboxd_url": "https://letterboxd.com/film/scorpio-rising/",
+    "poster": "assets/movie-posters/scorpio-rising.jpg",
+    "source_directors": [
+      "Kenneth Anger"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/1/8/5/7/8/18578-scorpio-rising-0-600-0-900-crop.jpg?v=6a8252e09a",
+    "source_title": "‎Scorpio Rising (1963) directed by Kenneth Anger • Reviews, film + cast • Letterboxd",
+    "bytes": 14735
+  },
+  {
+    "rank": 13,
+    "title": "Naked Lunch",
+    "letterboxd_url": "https://letterboxd.com/film/naked-lunch/",
+    "poster": "assets/movie-posters/naked-lunch.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/9s/s8/eg/uk/tMninSG4OAAhx9SNjdnMJM1R3Wn-0-600-0-900-crop.jpg?v=fa99bd4191",
+    "source_title": "‎Naked Lunch (1991) directed by David Cronenberg • Reviews, film + cast • Letterboxd",
+    "bytes": 22233
+  },
+  {
+    "rank": 12,
+    "title": "Magnolia",
+    "letterboxd_url": "https://letterboxd.com/film/magnolia/",
+    "poster": "assets/movie-posters/magnolia.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/8/51728-magnolia-0-600-0-900-crop.jpg?v=178b5e5c17",
+    "source_title": "‎Magnolia (1999) directed by Paul Thomas Anderson • Reviews, film + cast • Letterboxd",
+    "bytes": 18086
+  },
+  {
+    "rank": 11,
+    "title": "Green Room",
+    "letterboxd_url": "https://letterboxd.com/film/green-room/",
+    "poster": "assets/movie-posters/green-room.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/2/4/1/0/5/2/241052-green-room-0-600-0-900-crop.jpg?v=d54271a379",
+    "source_title": "‎Green Room (2015) directed by Jeremy Saulnier • Reviews, film + cast • Letterboxd",
+    "bytes": 11601
+  },
+  {
+    "rank": 10,
+    "title": "Point Break",
+    "letterboxd_url": "https://letterboxd.com/film/point-break/",
+    "poster": "assets/movie-posters/point-break.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/1/5/7/51157-point-break-0-600-0-900-crop.jpg?v=3cd33a67b2",
+    "source_title": "‎Point Break (1991) directed by Kathryn Bigelow • Reviews, film + cast • Letterboxd",
+    "bytes": 21923
+  },
+  {
+    "rank": 9,
+    "title": "I ❤ Huckabees",
+    "letterboxd_url": "https://letterboxd.com/film/i-huckabees/",
+    "poster": "assets/movie-posters/i-heart-huckabees.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/0/9/3/5/50935-i-huckabees-0-600-0-900-crop.jpg?v=19f5f56cde",
+    "source_title": "‎I ♥ Huckabees (2004) directed by David O. Russell • Reviews, film + cast • Letterboxd",
+    "bytes": 24065
+  },
+  {
+    "rank": 8,
+    "title": "Fritz the Cat",
+    "letterboxd_url": "https://letterboxd.com/film/fritz-the-cat/",
+    "poster": "assets/movie-posters/fritz-the-cat.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/4/4/4/6/44446-fritz-the-cat-0-600-0-900-crop.jpg?v=ec96dee288",
+    "source_title": "‎Fritz the Cat (1972) directed by Ralph Bakshi • Reviews, film + cast • Letterboxd",
+    "bytes": 17500
+  },
+  {
+    "rank": 7,
+    "title": "Fight Club",
+    "letterboxd_url": "https://letterboxd.com/film/fight-club/",
+    "poster": "assets/movie-posters/fight-club.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-600-0-900-crop.jpg?v=768b32dfa4",
+    "source_title": "‎Fight Club (1999) directed by David Fincher • Reviews, film + cast • Letterboxd",
+    "bytes": 18790
+  },
+  {
+    "rank": 6,
+    "title": "Mind Game",
+    "letterboxd_url": "https://letterboxd.com/film/mind-game/",
+    "poster": "assets/movie-posters/mind-game-2004.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/8/2/4/8/38248-mind-game-0-600-0-900-crop.jpg?v=3e94750fec",
+    "source_title": "‎Mind Game (2004) directed by Masaaki Yuasa • Reviews, film + cast • Letterboxd",
+    "bytes": 27369
+  },
+  {
+    "rank": 5,
+    "title": "Trainspotting",
+    "letterboxd_url": "https://letterboxd.com/film/trainspotting/",
+    "poster": "assets/movie-posters/trainspotting.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/7/51497-trainspotting-0-600-0-900-crop.jpg?v=c8597f6cb5",
+    "source_title": "‎Trainspotting (1996) directed by Danny Boyle • Reviews, film + cast • Letterboxd",
+    "bytes": 18488
+  },
+  {
+    "rank": 4,
+    "title": "Redline",
+    "letterboxd_url": "https://letterboxd.com/film/redline/",
+    "poster": "assets/movie-posters/redline.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/7/5/9/8/57598-redline-0-600-0-900-crop.jpg?v=08e8add085",
+    "source_title": "‎Redline (2009) directed by Takeshi Koike • Reviews, film + cast • Letterboxd",
+    "bytes": 24447
+  },
+  {
+    "rank": 3,
+    "title": "Possibly in Michigan",
+    "letterboxd_url": "https://letterboxd.com/film/possibly-in-michigan/",
+    "poster": "assets/movie-posters/possibly-in-michigan.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/2/6/1/2/3/1/261231-possibly-in-michigan-0-600-0-900-crop.jpg?v=38d58b9b53",
+    "source_title": "‎Possibly in Michigan (1983) directed by Cecelia Condit • Reviews, film + cast • Letterboxd",
+    "bytes": 6697
+  },
+  {
+    "rank": 2,
+    "title": "Nowhere",
+    "letterboxd_url": "https://letterboxd.com/film/nowhere/",
+    "poster": "assets/movie-posters/nowhere.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/1c/re/ju/yk/9CaVnvBRbzsM7mcJoIMncpHSBBN-0-600-0-900-crop.jpg?v=067121cd23",
+    "source_title": "‎Nowhere (1997) directed by Gregg Araki • Reviews, film + cast • Letterboxd",
+    "bytes": 10970
+  },
+  {
+    "rank": 1,
+    "title": "Arrival",
+    "letterboxd_url": "https://letterboxd.com/film/arrival-2016/",
+    "poster": "assets/movie-posters/arrival-2016.jpg",
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/3u/dy/qd/qd/4Iu5f2nv7huqvuYkmZvSPOtbFjs-0-600-0-900-crop.jpg?v=0fc28fdf2c",
+    "source_title": "‎Arrival (2016) directed by Denis Villeneuve • Reviews, film + cast • Letterboxd",
+    "bytes": 10534
+  }
+]
