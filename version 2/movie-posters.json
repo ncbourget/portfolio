@@ -1,5 +1,17 @@
 [
   {
+    "rank": 100,
+    "title": "Dog Day Afternoon",
+    "letterboxd_url": "https://letterboxd.com/film/dog-day-afternoon/",
+    "poster": "assets/movie-posters/dog-day-afternoon.jpg",
+    "source_directors": [
+      "Sidney Lumet"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/1/9/5/51195-dog-day-afternoon-0-600-0-900-crop.jpg?v=dcce1e7cbb",
+    "source_title": "‎Dog Day Afternoon (1975) directed by Sidney Lumet • Reviews, film + cast • Letterboxd",
+    "bytes": 15406
+  },
+  {
     "rank": 99,
     "title": "Phantom of the Paradise",
     "letterboxd_url": "https://letterboxd.com/film/phantom-of-the-paradise/",
@@ -22,6 +34,30 @@
     "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/0/7/2/5/50725-fear-and-loathing-in-las-vegas-0-600-0-900-crop.jpg?v=ff824b403c",
     "source_title": "‎Fear and Loathing in Las Vegas (1998) directed by Terry Gilliam • Reviews, film + cast • Letterboxd",
     "bytes": 25210
+  },
+  {
+    "rank": 97,
+    "title": "Re-Animator",
+    "letterboxd_url": "https://letterboxd.com/film/re-animator/",
+    "poster": "assets/movie-posters/re-animator.jpg",
+    "source_directors": [
+      "Stuart Gordon"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/wd/b8/27/m3/hJnP2O0uTuh8HsR094WLTi3sQwc-0-600-0-900-crop.jpg?v=229c35a394",
+    "source_title": "‎Re-Animator (1985) directed by Stuart Gordon • Reviews, film + cast • Letterboxd",
+    "bytes": 21893
+  },
+  {
+    "rank": 96,
+    "title": "BlacKkKlansman",
+    "letterboxd_url": "https://letterboxd.com/film/blackkklansman/",
+    "poster": "assets/movie-posters/blackkklansman.jpg",
+    "source_directors": [
+      "Spike Lee"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/1/8/1/3/5/418135-blackkklansman-0-600-0-900-crop.jpg?v=632af7bfd9",
+    "source_title": "‎BlacKkKlansman (2018) directed by Spike Lee • Reviews, film + cast • Letterboxd",
+    "bytes": 15749
   },
   {
     "rank": 95,
@@ -118,6 +154,18 @@
     "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/6/7/6/2/46762-ginger-snaps-0-600-0-900-crop.jpg?v=89b7114ec9",
     "source_title": "‎Ginger Snaps (2000) directed by John Fawcett • Reviews, film + cast • Letterboxd",
     "bytes": 20039
+  },
+  {
+    "rank": 87,
+    "title": "Once Upon a Time… in Hollywood",
+    "letterboxd_url": "https://letterboxd.com/film/once-upon-a-time-in-hollywood/",
+    "poster": "assets/movie-posters/once-upon-a-time-in-hollywood.jpg",
+    "source_directors": [
+      "Quentin Tarantino"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854",
+    "source_title": "‎Once Upon a Time... in Hollywood (2019) directed by Quentin Tarantino • Reviews, film + cast • Letterboxd",
+    "bytes": 27414
   },
   {
     "rank": 86,
@@ -240,6 +288,18 @@
     "bytes": 20081
   },
   {
+    "rank": 76,
+    "title": "The Silence of the Lambs",
+    "letterboxd_url": "https://letterboxd.com/film/the-silence-of-the-lambs/",
+    "poster": "assets/movie-posters/the-silence-of-the-lambs.jpg",
+    "source_directors": [
+      "Jonathan Demme"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/2/51782-the-silence-of-the-lambs-0-600-0-900-crop.jpg?v=18d88bdff4",
+    "source_title": "‎The Silence of the Lambs (1991) directed by Jonathan Demme • Reviews, film + cast • Letterboxd",
+    "bytes": 13807
+  },
+  {
     "rank": 75,
     "title": "The Holdovers",
     "letterboxd_url": "https://letterboxd.com/film/the-holdovers/",
@@ -250,6 +310,30 @@
     "poster_source": "https://a.ltrbxd.com/resized/film-poster/7/5/5/5/6/4/755564-the-holdovers-0-600-0-900-crop.jpg?v=99bbdd8955",
     "source_title": "‎The Holdovers (2023) directed by Alexander Payne • Reviews, film + cast • Letterboxd",
     "bytes": 13612
+  },
+  {
+    "rank": 74,
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "letterboxd_url": "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
+    "poster": "assets/movie-posters/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.jpg",
+    "source_directors": [
+      "Stanley Kubrick"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/5/1/2/1/8/51218-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love--0-600-0-900-crop.jpg?v=c814dfbae0",
+    "source_title": "‎Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) directed by Stanley Kubrick • Reviews, film + cast • Letterboxd",
+    "bytes": 20729
+  },
+  {
+    "rank": 73,
+    "title": "X",
+    "letterboxd_url": "https://letterboxd.com/film/x-2022/",
+    "poster": "assets/movie-posters/x-2022.jpg",
+    "source_directors": [
+      "Ti West"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/6/8/0/3/5/8/680358-x-0-600-0-900-crop.jpg?v=8ba5e11abf",
+    "source_title": "‎X (2022) directed by Ti West • Reviews, film + cast • Letterboxd",
+    "bytes": 19497
   },
   {
     "rank": 72,
@@ -526,6 +610,18 @@
     "bytes": 23585
   },
   {
+    "rank": 49,
+    "title": "Sorry to Bother You",
+    "letterboxd_url": "https://letterboxd.com/film/sorry-to-bother-you/",
+    "poster": "assets/movie-posters/sorry-to-bother-you.jpg",
+    "source_directors": [
+      "Boots Riley"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/pi/8d/sk/jg/wdiJKxlyg3bzqZgRsNcIfoaQs1O-0-600-0-900-crop.jpg?v=f85a9cc2f4",
+    "source_title": "‎Sorry to Bother You (2018) directed by Boots Riley • Reviews, film + cast • Letterboxd",
+    "bytes": 14178
+  },
+  {
     "rank": 48,
     "title": "The Tragedy of Macbeth",
     "letterboxd_url": "https://letterboxd.com/film/the-tragedy-of-macbeth/",
@@ -639,6 +735,30 @@
     "poster_source": "https://a.ltrbxd.com/resized/film-poster/9/7/2/1/0/9/972109-weapons-2025-0-600-0-900-crop.jpg?v=8100270337",
     "source_title": "‎Weapons (2025) directed by Zach Cregger • Reviews, film + cast • Letterboxd",
     "bytes": 10747
+  },
+  {
+    "rank": 38,
+    "title": "Suspiria",
+    "letterboxd_url": "https://letterboxd.com/film/suspiria/",
+    "poster": "assets/movie-posters/suspiria.jpg",
+    "source_directors": [
+      "Dario Argento"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-600-0-900-crop.jpg?v=d1fbb1d377",
+    "source_title": "‎Suspiria (1977) directed by Dario Argento • Reviews, film + cast • Letterboxd",
+    "bytes": 9773
+  },
+  {
+    "rank": 37,
+    "title": "Nightcrawler",
+    "letterboxd_url": "https://letterboxd.com/film/nightcrawler/",
+    "poster": "assets/movie-posters/nightcrawler.jpg",
+    "source_directors": [
+      "Dan Gilroy"
+    ],
+    "poster_source": "https://a.ltrbxd.com/resized/sm/upload/g7/2e/vi/vy/A9ANrAWlmIovxzjAIiOgseSLNc9-0-600-0-900-crop.jpg?v=6bcb14c88c",
+    "source_title": "‎Nightcrawler (2014) directed by Dan Gilroy • Reviews, film + cast • Letterboxd",
+    "bytes": 20070
   },
   {
     "rank": 36,

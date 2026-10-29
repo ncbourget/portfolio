@@ -48,13 +48,13 @@ body .wordmark{align-self:end;transform:translateY(.13em)}
   .masthead nav{grid-column:2;grid-row:2}
 }
 body .wordmark{font-size:36px;letter-spacing:calc(-1.8px - .01em)}
-::selection{background:var(--site-accent);color:#fff}
-body.detail-page .project-index-links a:is(:hover,:focus-visible,[aria-current="location"]){background:var(--site-accent);color:#fff}
+::selection{background:var(--site-accent);color:var(--site-background)}
+body.detail-page .project-index-links a:is(:hover,:focus-visible,[aria-current="location"]){background:var(--site-accent);color:var(--site-background)}
 body.detail-page .project-index-links a:is(:hover,:focus-visible,[aria-current="location"]) span{color:inherit}
-body .about a:hover,body .about-inline-link:hover,body .index-row:hover{background:var(--site-accent);color:#fff}
+body .about a:hover,body .about-inline-link:hover,body .index-row:hover{background:var(--site-accent);color:var(--site-background)}
 body .index-row:hover span,.tile-caption{color:inherit}
-body .index-row:hover .row-number,body .index-row:hover .row-category,body .index-row:hover .row-date{color:#fff}
-.tile-caption{color:#fff}
+body .index-row:hover .row-number,body .index-row:hover .row-category,body .index-row:hover .row-date{color:var(--site-background)}
+.tile-caption{color:var(--site-background)}
 .archive-toolbar,.footer,body.detail-page>.masthead,body.detail-page .project-pagination{position:relative}
 .archive-toolbar,.footer,body.detail-page>.masthead,body.detail-page .project-pagination{border-color:transparent}
 .archive-toolbar::before,.footer::before,body.detail-page .project-pagination::before{content:"";position:absolute;top:-1px;left:calc(50% - 50vw);width:100vw;border-top:1px solid var(--site-accent);pointer-events:none}
@@ -87,7 +87,7 @@ body .masthead nav a,body .masthead nav>span{background:transparent}
 
 .view-switch a{font-weight:700}
 .archive-grid{align-content:start}
-body .about a.top-movies-link{display:inline-block;background:var(--site-accent);color:#fff;text-decoration:none;padding:2px 5px;margin-top:4px}
+body .about a.top-movies-link{display:inline-block;background:var(--site-accent);color:var(--site-background);text-decoration:none;padding:2px 5px;margin-top:4px}
 .movies-main{padding:36px 0 60px}
 .movies-main h1{font-size:var(--heading-one);font-weight:400;line-height:1.15;margin:0 0 30px}
 .movie-list{margin:0;padding-left:3em;line-height:1.5}
@@ -155,7 +155,7 @@ body .masthead .site-name{line-height:1;font-size:36px;align-self:end}
   body .masthead .site-name{font-size:36px}
 }
 
-:root{--site-background:#7eed0a;--site-accent:#dd4d00}
+:root{--site-background:#7eed0a;--site-accent:#f20c75}
 @media(max-width:700px){
   body .masthead nav,body:has(.archive-grid) .masthead nav{column-gap:7px}
   body .masthead nav a,body .masthead nav>span{padding-inline:0;white-space:nowrap}

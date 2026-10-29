@@ -300,7 +300,7 @@ body.detail-page .project-intro .project-heading h1{font-size:var(--heading-two)
 body.detail-page .project-intro .project-heading p,body.detail-page .project-media-count,body.detail-page .project-breadcrumb,body.detail-page .project-pagination,body.detail-page .project-pagination a>span{font-size:var(--body-copy)}
 .detail-page{--paper:var(--site-background);--rule:var(--site-accent)}
 .project-intro,body.detail-page .chapter-heading,body.detail-page .project-pagination{border-color:var(--site-accent)}
-body.detail-page .project-index-links a:is(:hover,:focus-visible,[aria-current="location"]){background:var(--site-accent);color:#fff}
+body.detail-page .project-index-links a:is(:hover,:focus-visible,[aria-current="location"]){background:var(--site-accent);color:var(--site-background)}
 body.detail-page .project-index-links a:is(:hover,:focus-visible,[aria-current="location"]) span{color:inherit}
 .project-intro{position:relative;border-bottom-color:transparent}
 .project-intro::after{content:"";position:absolute;bottom:-1px;left:calc(50% - 50vw);width:100vw;border-top:1px solid var(--site-accent);pointer-events:none}
@@ -315,7 +315,7 @@ body.detail-page .project-notes{overflow:visible;max-height:none}
 body.detail-page .image-lightbox{background:var(--site-background);padding:clamp(40px,8vw,120px);place-items:center}
 body.detail-page .image-lightbox-frame{max-width:76vw;max-height:76vh;background:transparent}
 body.detail-page .image-lightbox-frame img{max-width:76vw;max-height:76vh;width:auto;height:auto;object-fit:contain}
-body.detail-page .image-lightbox-close{background:var(--site-accent);color:#fff;border:0;width:40px;height:40px;display:grid;place-items:center;line-height:1;font-size:25px}
+body.detail-page .image-lightbox-close{background:var(--site-accent);color:var(--site-background);border:0;width:40px;height:40px;display:grid;place-items:center;line-height:1;font-size:25px}
 @media(max-width:700px){body.detail-page .image-lightbox-frame,body.detail-page .image-lightbox-frame img{max-width:84vw;max-height:72vh}body.detail-page .image-lightbox{padding:8vw}}
 body.detail-page .project-intro .project-heading h1,body.detail-page .chapter-heading h2{font-family:Atlas,Arial,sans-serif;font-weight:700;text-transform:lowercase;letter-spacing:-.06em}
 body.detail-page .project-intro .project-heading{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:baseline;column-gap:16px;width:100%}
